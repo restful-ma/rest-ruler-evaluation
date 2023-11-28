@@ -5,15 +5,15 @@
 
 The evaluation was concerned with three things:
 
-- [Robustness](./robustness/): successful analysis runs for real world API descriptions
-- [Performance efficiency](./performance/): analysis duration plus CPU and memory usage
-- [Effectiveness](./effectiveness/): accurate identification of rule violations
+- [Robustness](./01-robustness/): successful analysis runs for real world API descriptions
+- [Performance efficiency](./02-performance/): analysis duration plus CPU and memory usage
+- [Effectiveness](./03-effectiveness/): accurate identification of rule violations
 
-For robustness and performance efficiency, we downloaded ~2.3k OpenAPI descriptions from https://apis.guru, a public repository of OpenAPI descriptions.
+For robustness and performance efficiency, we downloaded ~2.3k OpenAPI descriptions from https://apis.guru, a public repository of OpenAPI descriptions, and let RESTRuler analyze them.
 For effectiveness, we performed a separate analysis of precision , i.e., how many false
-positives, and recall , i.e., how many false negatives.
+positives, and recall, i.e., how many false negatives.
 
-- Precision: random selection of reported violations from the apis.gurus benchmark per implemented rule with manual analysis (is the reported violation correct?)
+- Precision: random selection of reported violations from the `apis.gurus` benchmark per implemented rule with manual analysis (are the reported violations correct?)
 - Recall: creation of a labeled gold standard together with 7 external experts (are the created violations reported?)
 
 ## Comments
