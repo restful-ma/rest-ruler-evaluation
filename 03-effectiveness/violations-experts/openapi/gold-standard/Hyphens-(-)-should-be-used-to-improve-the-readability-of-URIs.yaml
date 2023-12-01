@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus (+1 violation)
   /videogames/{id}:
     get:
       tags:
@@ -46,7 +45,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /weatherstations:
     get:
       tags:
@@ -74,7 +72,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /databaseservers/{id}:
     delete:
       tags:
@@ -108,7 +105,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /users/{userId}/contactdetails:
     get:
       tags:
@@ -142,7 +138,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /users/johndoe:
     delete:
       tags:
@@ -168,7 +163,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco da Silva (+1 violation)
   /users/1/myissues/13:
     get:
       tags:
@@ -194,7 +188,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver Kopp (+1 violation)
   /premiumusers/{userId}:
     get:
       tags:
@@ -228,7 +221,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Timo Pfaff (+1 violation)
   /university+of+stuttgart/students/{studentId}:
     delete:
       tags:
@@ -262,7 +254,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Maik Betka (+1 violation)
   /blogs/firstnamesurname/mytitles:
     delete:
       tags:

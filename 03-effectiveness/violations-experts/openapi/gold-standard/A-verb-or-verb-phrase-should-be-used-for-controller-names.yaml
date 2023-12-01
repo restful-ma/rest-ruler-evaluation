@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Ana Franco Da Silva (+1 violation)
   /users/1/present:
     put:
       tags:
@@ -38,7 +37,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /users/1/permit:
     put:
       tags:
@@ -64,7 +62,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # RULE 14: A verb or verb phrase should be used for controller (+1 violation)
   /animals/{catId}/foods/{foodId}/deliver-food:
     put:
       tags:
@@ -105,7 +102,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # RULE 14: A verb or verb phrase should be used for controller (+1 violation)
   /animals/{catId}/foods/{foodId}/remove-food:
     delete:
       tags:

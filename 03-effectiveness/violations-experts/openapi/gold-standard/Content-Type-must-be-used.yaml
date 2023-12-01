@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus (+1 violation)
   /customers:
     get:
       tags:
@@ -40,7 +39,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation) + Timo Pfaff + Ana Franco da Silva
   /user:
     post:
       tags:
@@ -68,7 +66,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /users/{id}:
     get:
       tags:
@@ -99,7 +96,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Timo Pfaff (+3 violation)
   /queues:
     get:
       tags:

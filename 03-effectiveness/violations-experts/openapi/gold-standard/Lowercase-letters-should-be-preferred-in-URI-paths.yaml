@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus (+1 violation)
   /ToDos/{id}:
     get:
       tags:
@@ -46,7 +45,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /gameStores/{storeId}/videoGames/{gameId}:
     post:
       tags:
@@ -93,7 +91,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /Users/{userId}/CVs:
     get:
       tags:
@@ -127,7 +124,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco da Silva (+1 violation)
   /users/1/myIssues/13:
     get:
       tags:
@@ -153,7 +149,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Lukas Mohs (+1 violation)
   /ENTITIES/{Id}:
     get:
       tags:
@@ -187,7 +182,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver Kopp (+1 violation)
   /PremiumUsers/{userId}:
     get:
       tags:

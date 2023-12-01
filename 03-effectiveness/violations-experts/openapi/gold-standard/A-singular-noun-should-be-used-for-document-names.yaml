@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus (+1 violation)
   /departments/human-resources/employees:
     get:
       tags:
@@ -38,7 +37,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /animals/geese/species:
     get:
       tags:
@@ -64,7 +62,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /products/trousers:
     get:
       tags:
@@ -90,7 +87,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /products/information-items:
     get:
       tags:
@@ -116,7 +112,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva  (+1 violation)
   /items/shirts:
     get:
       tags:
@@ -144,7 +139,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /items/jeans:
     get:
       tags:
@@ -172,7 +166,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /items/leggings:
     get:
       tags:
@@ -200,7 +193,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver (+1 violation)
   /my-cases/top-priority-cases/details:
     get:
       tags:
@@ -228,7 +220,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Pfaff (+1 violation)
   /databases/{databaseId}/admins:
     get:
       tags:

@@ -14,13 +14,6 @@ servers:
 paths:
   /users/:
     get:
-      tags:
-        - kotstein
-        - silva
-        - bogner
-        - betka
-        - kopp
-        - pfaff
       description: Returns a list of all users
       summary: Get all users
       responses:
@@ -46,9 +39,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /users/{userId}/:
     get:
-      tags:
-        - kotstein
-        - mohs
       description: Returns the details of a user identified via ID
       summary: Get a specific user
       parameters:

@@ -14,9 +14,6 @@ servers:
 paths:  
   /users/{userId}:
     get:
-      tags:
-        - kotstein
-        - silva
       description: Handle the details of a user identified via ID
       summary: Handle a specific user
       parameters:

@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus + Lukas Mohs (+1 violation)
   /customers/{id}/orders.xml:
     get:
       tags:
@@ -46,7 +45,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus + Sebastian + Ana Franco da Silva (+1 violation)
   /customers/{id}/orders.json:
     get:
       tags:
@@ -80,7 +78,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus + Sebastian (+1 violation)
   /customers/{id}/orders.html:
     get:
       tags:
@@ -114,7 +111,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /customers/{id}/orders.pdf:
     get:
       tags:
@@ -149,7 +145,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /customers/{id}/orders/json:
     get:
       tags:
@@ -183,7 +178,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /customers/{id}/orders/html:
     get:
       tags:
@@ -217,7 +211,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Timo Pfaff (+1 violation)
   /customers/{id}/orders.pdf/download:
     get:
       tags:
@@ -252,7 +245,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver Kopp (+1 violation)
   /customers/{id}/orders.heic:
     get:
       tags:

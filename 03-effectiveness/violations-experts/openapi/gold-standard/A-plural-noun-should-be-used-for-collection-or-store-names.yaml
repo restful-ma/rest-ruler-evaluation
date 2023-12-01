@@ -12,7 +12,6 @@ servers:
   - url: https://sandbox-api.example.com:8443/v1
     description: Sandbox server (uses test data)
 paths:
-  # Justus (+1 violation)
   /customer:
     post:
       tags:
@@ -38,7 +37,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /message/{id}:
     delete:
       tags:
@@ -72,7 +70,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Justus (+1 violation)
   /article/{id}:
     put:
       tags:
@@ -106,7 +103,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /user/{userId}:
     get:
       tags:
@@ -140,7 +136,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /information/{informationId}:
     get:
       tags:
@@ -174,7 +169,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Sebastian (+1 violation)
   /information-item/{informationId}:
     get:
       tags:
@@ -208,7 +202,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /user/1/my-issues/13:
     get:
       tags:
@@ -234,7 +227,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /offspring/1:
     get:
       tags:
@@ -260,7 +252,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /species/1:
     get:
       tags:
@@ -286,7 +277,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Ana Franco Da Silva (+1 violation)
   /crossroads/1:
     get:
       tags:
@@ -312,7 +302,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Lukas (+1 violation)
   /activities/{Id}/participant:
     get:
       tags:
@@ -345,7 +334,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver (+1 violation)
   /case/high-priority/{caseId}:
     get:
       tags:
@@ -378,7 +366,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Oliver (+1 violation)
   /cases-high-prio/{caseId}:
     get:
       tags:
@@ -411,7 +398,6 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/GenericResponse"
-  # Pfaff (+1 violation)
   /store/{storeId}/books:
     get:
       tags:

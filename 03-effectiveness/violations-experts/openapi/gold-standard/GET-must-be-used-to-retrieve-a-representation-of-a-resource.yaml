@@ -14,8 +14,6 @@ servers:
 paths: 
   /users/{user-id}/fetch:
     post:
-      tags:
-        - kotstein
       description: Get a user with details
       summary: Get a user
       parameters: 
@@ -60,8 +58,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /users/{userId}/names/search:
     post:
-      tags:
-        - kotstein
       description: Search for a user with given user ID
       summary: Get user by ID
       parameters: 
@@ -106,8 +102,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /users/register:
     get:
-      tags:
-        - kotstein
       description: Create a new user with name and surname defined by query
       summary: Create an user
       parameters: 
@@ -146,8 +140,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /get-user/{userId}:
    post:
-      tags:
-        - silva
       description: Retrieves a user with given user ID
       summary: Retrieve user by ID
       parameters: 
@@ -192,8 +184,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /retrieve-user:
    post:
-      tags:
-        - silva
       description: Retrieves a user with given user ID
       summary: Retrieve user by ID
       parameters: 
@@ -238,8 +228,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /activities/{Id}:
     get:
-      tags:
-        - mohs
       description: Creates a new user with details
       summary: Create a new user
       parameters:
@@ -266,8 +254,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /orders/{orderId}:            
     put:
-      tags:
-        - pfaff
       description: Get a specific order
       summary: Get a specific order
       parameters:
@@ -305,8 +291,6 @@ paths:
                 $ref: "#/components/schemas/GenericResponse"
   /search-publications:
     post:
-      tags:
-        - bogner
       description: Search for publications
       summary: Get publications
       requestBody:
