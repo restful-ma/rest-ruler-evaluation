@@ -41,7 +41,7 @@ df_total = pd.DataFrame(
 )
 
 # add file prefix
-file_prefix = "./effectiveness/false-positives/"
+file_prefix = "./false-positives/"
 
 data = pd.read_excel(
     file_prefix + "false-positives.xlsx",

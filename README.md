@@ -1,5 +1,5 @@
 # RESTRuler: Evaluation Artifacts
-> All artifacts related to the empirical evaluation of the [RESTRuler CLI](https://github.com/restful-ma/rest-ruler), a Java-based tool to identify design rule violations in OpenAPI descriptions
+> All artifacts related to the empirical evaluation of the [RESTRuler CLI](https://github.com/restful-ma/rest-ruler), a Java-based tool to identify design rule violations in OpenAPI descriptions (Java version >= 18 needed)
 
 ## Goal and Methods
 

@@ -11,7 +11,7 @@ success = []
 skipped_lines = []
 pattern = re.compile(r'In total \d+ rule violations were found')
 
-#define path to jar here
+# define path to jar here
 path_to_jar = './rest-ruler.jar'
 
 # '~/rest-ruler/cli/'
