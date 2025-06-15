@@ -1,0 +1,4 @@
+# RESTRuler: Evaluation of AI integration in the rule "Description of request should match with the type of the request"
+
+This directory contains resources that are related to the effectiveness evaluation of the rule "Description of request should match with the type of the request" with an AI integration.  
+This rule was originally implemented using a custom ML model. We then used a ChatGPT integration to evaluate compliance to this rule. To evaluate the rule, we created a build (jar) of the CLI where only this rule is active (the other rules are deactived in this build), so it is easier to test and save the results programmatically.

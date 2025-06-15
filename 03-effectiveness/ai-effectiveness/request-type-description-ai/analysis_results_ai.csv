@@ -1,0 +1,53 @@
+api_name,api_url,violation_line,violation_path
+1Forge Finance APIs,https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json,,
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,42,/api/auth/introspect
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,67,/api/v1/itemusages
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,96,/api/v1/signinattempts
+1Password Connect,https://api.apis.guru/v2/specs/1password.local/connect/1.3.0/openapi.json,,
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,175,/key/{PK}
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,576,/scope/{job}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1214,/push/deviceRegistrations/{device_id}/resetUpdateToken
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,485,/apps/{app_id}/keys/{key_id}/revoke
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,1812,/apps/{id}/pkcs12
+IP geolocation API,https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json,,
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adobe Experience Manager (AEM) API,https://api.apis.guru/v2/specs/adobe.com/aem/3.5.0-pre.0/openapi.json,,
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,168,/closeAccount
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,285,/closeAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,402,/closeStores
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,732,/deleteBankAccounts
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,849,/deleteLegalArrangements
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,983,/deletePayoutMethods
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1101,/deleteShareholders
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1218,/deleteSignatories
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1330,/getAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1450,/getTaxForm
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1557,/getUploadedDocuments
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1781,/unSuspendAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1898,/updateAccount
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2015,/updateAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2141,/updateAccountHolderState
+Issuing: Balance Platform API,https://api.apis.guru/v2/specs/adyen.com/BalancePlatformService/1/openapi.json,,
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,44,/get3dsAvailability
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,152,/getCostEstimate
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,59,/applePay/sessions
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,268,/cardDetails
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,1326,/paymentMethods
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,1480,/paymentMethods/balance
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,2274,/payments/{paymentPspReference}/amountUpdates
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,,
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,44,/accountHolderBalance
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,151,/accountHolderTransactionList
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,47,/getOnboardingUrl
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,149,/getPciQuestionnaireUrl
+Adyen for Platforms: Notifications,https://api.apis.guru/v2/specs/adyen.com/MarketPayNotificationService/6/openapi.json,,
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,146,/deleteNotificationConfigurations
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,248,/getNotificationConfiguration
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,350,/getNotificationConfigurationList
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,554,/updateNotificationConfiguration
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,520,/cancel
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,979,/getAuthenticationResult
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,1209,/retrieve3ds2Result
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,1322,/technicalCancel
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,1440,/voidPendingRefund
+Adyen Payout API,https://api.apis.guru/v2/specs/adyen.com/PayoutService/68/openapi.json,,
