@@ -1,0 +1,25 @@
+api_name,api_url,violation_line,violation_path
+1Forge Finance APIs,https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json,,
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,42,/api/auth/introspect
+1Password Connect,https://api.apis.guru/v2/specs/1password.local/connect/1.3.0/openapi.json,,
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,175,/key/{PK}
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,576,/scope/{job}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,361,/channels/{channel_id}/presence
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,445,/channels/{channel_id}/presence/history
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,,
+IP geolocation API,https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json,,
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adobe Experience Manager (AEM) API,https://api.apis.guru/v2/specs/adobe.com/aem/3.5.0-pre.0/openapi.json,,
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,,
+Issuing: Balance Platform API,https://api.apis.guru/v2/specs/adyen.com/BalancePlatformService/1/openapi.json,,
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,,
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,,
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,,
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,,
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,,
+Adyen for Platforms: Notifications,https://api.apis.guru/v2/specs/adyen.com/MarketPayNotificationService/6/openapi.json,,
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,,
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,,
+Adyen Payout API,https://api.apis.guru/v2/specs/adyen.com/PayoutService/68/openapi.json,,
