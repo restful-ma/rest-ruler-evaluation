@@ -1,0 +1,10 @@
+Analysis Summary
+----------------
+Total successful standard runs: 20
+Total successful AI runs: 20
+Total skipped files: 0
+Total violations found (standard): 35
+Total violations found (AI): 44
+Total failed standard runs: 0
+Total failed AI runs: 0
+
