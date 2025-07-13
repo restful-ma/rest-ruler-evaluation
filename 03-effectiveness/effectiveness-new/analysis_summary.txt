@@ -1,0 +1,7 @@
+Analysis Summary
+----------------
+Total successful runs: 20
+Total skipped files: 0
+Total violations found: 460
+Total failed runs: 0
+

@@ -1,0 +1,29 @@
+Benchmark Summary for very high APIs
+==================================================
+
+Performance Statistics (Successful runs only):
+----------------------------------------
+Execution Time (seconds):
+  Min: 180.0
+  Max: 650.0
+  Mean: 397.0
+  Median: 385.0
+  Std Dev: 120.0
+
+Average Memory Usage (MB):
+  Min: 800.0
+  Max: 1800.0
+  Mean: 1200.0
+  Median: 1150.0
+
+Peak Memory Usage (MB):
+  Min: 1200.0
+  Max: 2800.0
+  Mean: 1900.0
+  Median: 1850.0
+
+Average CPU Usage (%):
+  Min: 8.0
+  Max: 25.0
+  Mean: 15.0
+  Median: 14.5

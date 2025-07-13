@@ -1,0 +1,501 @@
+Benchmark Summary for high APIs
+==================================================
+
+Performance Statistics (Successful runs only):
+----------------------------------------
+Execution Time (seconds):
+  Min: 23.48
+  Max: 268.82
+  Mean: 162.88
+  Median: 153.55
+  Std Dev: 51.73
+
+Average Memory Usage (MB):
+  Min: 483.5
+  Max: 1265.9
+  Mean: 988.2
+  Median: 1089.3
+
+Peak Memory Usage (MB):
+  Min: 483.5
+  Max: 1265.9
+  Mean: 888.2
+  Median: 978.5
+
+Average CPU Usage (%):
+  Min: 6.1
+  Max: 18.6
+  Mean: 10.0
+  Median: 6.2
+
+Failed APIs:
+--------------------
+  Snyk API.json: Tem 08, 2025 9:54:05  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:54:05  cli.analyzer.RestAnaly...
+  Content API for Shopping.json: Tem 08, 2025 9:57:22  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:57:22  cli.analyzer.RestAnaly...
+  Fisheye Crucible.json: Tem 08, 2025 10:00:08  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:00:08  cli.analyzer.RestAna...
+  Rebilly REST API.json: Tem 08, 2025 10:03:19  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:03:19  cli.analyzer.RestAna...
+  NBA Stats API.json: Tem 08, 2025 10:08:59  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:08:59  cli.analyzer.RestAna...
+  Influx OSS API Service.json: Tem 08, 2025 10:11:58  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:11:58  cli.analyzer.RestAna...
+  Big Red Cloud API.json: Tem 08, 2025 10:16:07  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:16:07  cli.analyzer.RestAna...
+  Amazon Redshift.json: Tem 08, 2025 10:19:02  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:19:02  cli.analyzer.RestAna...
+  Hetzner Cloud API.json: Tem 08, 2025 10:24:53  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:24:53  cli.analyzer.RestAna...
+  StackExchange.json: Tem 08, 2025 10:29:06  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:29:06  cli.analyzer.RestAna...
+  AWS WAF Regional.json: Tem 08, 2025 10:33:25  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:33:25  cli.analyzer.RestAna...
+  Twitter API.json: Tem 08, 2025 10:35:27  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:35:27  cli.analyzer.RestAna...
+  Files.com API.json: Tem 08, 2025 10:38:20  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:38:21  cli.analyzer.RestAna...
+  IllumiDesk.json: Tem 08, 2025 10:42:50  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:42:50  cli.analyzer.RestAna...
+  Xero Accounting API.json: Tem 08, 2025 10:46:05  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:46:05  cli.analyzer.RestAna...
+  Campaign Manager 360 API.json: Tem 08, 2025 10:50:46  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:50:46  cli.analyzer.RestAna...
+  Telegram Bot API.json: Tem 08, 2025 10:55:17  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:55:17  cli.analyzer.RestAna...
+  Noosh API application.json: Tem 08, 2025 10:57:19  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 10:57:19  cli.analyzer.RestAna...
+  Probely Developers.json: Tem 08, 2025 11:02:41  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:02:41  cli.analyzer.RestAna...
+  BillingManagementClient.json: Tem 08, 2025 11:06:39  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:06:39  cli.analyzer.RestAna...
+  Slicebox API.json: Tem 08, 2025 11:11:03  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:11:03  cli.analyzer.RestAna...
+  Transport for London Unified API.json: Tem 08, 2025 11:14:19  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:14:19  cli.analyzer.RestAna...
+  Rat Genome Database REST API.json: Tem 08, 2025 11:16:57  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:16:57  cli.analyzer.RestAna...
+  Mandrill.json: Tem 08, 2025 11:20:27  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:20:28  cli.analyzer.RestAna...
+  reverb.json: Tem 08, 2025 11:23:30  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:23:30  cli.analyzer.RestAna...
+  ClickMeter API.json: Tem 08, 2025 11:27:56  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:27:56  cli.analyzer.RestAna...
+  Docker Engine API.json: Tem 08, 2025 11:30:41  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:30:41  cli.analyzer.RestAna...
+  Apigee API.json: Tem 08, 2025 11:34:05  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:34:05  cli.analyzer.RestAna...
+  LUIS Authoring Client.json: Tem 08, 2025 11:36:59  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:36:59  cli.analyzer.RestAna...
+  ClearBlade API.json: Tem 08, 2025 11:41:08  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:41:08  cli.analyzer.RestAna...
+  Box Platform API.json: Tem 08, 2025 11:47:47  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:47:47  cli.analyzer.RestAna...
+  Display & Video 360 API.json: Tem 08, 2025 11:53:26  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:53:26  cli.analyzer.RestAna...
+  NFL v3 Stats.json: Tem 08, 2025 11:57:37  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:57:37  cli.analyzer.RestAna...
+  LogicManagementClient.json: Tem 08, 2025 11:59:59  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 11:59:59  cli.analyzer.RestAna...
+  Advicent.FactFinderService.json: Tem 08, 2025 12:04:54 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:04:54 S cli.analyzer.RestA...
+  ClickSend REST API v3.json: Tem 08, 2025 12:10:33 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:10:33 S cli.analyzer.RestA...
+  OSF APIv2 Documentation.json: Tem 08, 2025 12:15:59 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:15:59 S cli.analyzer.RestA...
+  Amazon Cognito Identity Provider.json: Tem 08, 2025 12:20:07 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:20:07 S cli.analyzer.RestA...
+  Budgea API Documentation.json: Tem 08, 2025 12:22:32 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:22:32 S cli.analyzer.RestA...
+  Asana.json: Tem 08, 2025 12:26:48 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:26:48 S cli.analyzer.RestA...
+  MotaWord API.json: Tem 08, 2025 12:31:04 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:31:04 S cli.analyzer.RestA...
+  Amazon GameLift.json: Tem 08, 2025 12:37:10 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:37:10 S cli.analyzer.RestA...
+  OOXML Automation.json: Tem 08, 2025 12:40:06 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:40:07 S cli.analyzer.RestA...
+  vRealize Network Insight API Reference.json: Tem 08, 2025 12:44:22 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:44:22 S cli.analyzer.RestA...
+  NetBox API.json: Tem 08, 2025 12:48:29 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:48:29 S cli.analyzer.RestA...
+  iQualify Management API.json: Tem 08, 2025 12:56:57 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:56:57 S cli.analyzer.RestA...
+  Amazon Connect Service.json: Tem 08, 2025 12:59:35 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 12:59:35 S cli.analyzer.RestA...
+  AWS Storage Gateway.json: Tem 08, 2025 1:04:13 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:04:13 S cli.analyzer.RestAna...
+  Jumpseller API.json: Tem 08, 2025 1:06:27 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:06:27 S cli.analyzer.RestAna...
+  Superset.json: Tem 08, 2025 1:09:38 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:09:38 S cli.analyzer.RestAna...
+  Amazon Chime.json: Tem 08, 2025 1:12:43 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:12:43 S cli.analyzer.RestAna...
+  AWS IoT.json: Tem 08, 2025 1:17:02 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:17:02 S cli.analyzer.RestAna...
+  AWS Config.json: Tem 08, 2025 1:22:18 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:22:18 S cli.analyzer.RestAna...
+  Alexa For Business.json: Tem 08, 2025 1:24:26 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:24:26 S cli.analyzer.RestAna...
+  AWS Service Catalog.json: Tem 08, 2025 1:26:51 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:26:51 S cli.analyzer.RestAna...
+  PowerTools Developer.json: Tem 08, 2025 1:29:02 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:29:02 S cli.analyzer.RestAna...
+  Figshare API.json: Tem 08, 2025 1:31:35 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:31:35 S cli.analyzer.RestAna...
+  Rocket Services.json: Tem 08, 2025 1:35:35 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:35:36 S cli.analyzer.RestAna...
+  Swagger API2Cart.json: Tem 08, 2025 1:39:27 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:39:27 S cli.analyzer.RestAna...
+  Amazon Simple Systems Manager (SSM).json: Tem 08, 2025 1:43:47 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:43:47 S cli.analyzer.RestAna...
+  SIGNL4 API.json: Tem 08, 2025 1:47:04 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:47:04 S cli.analyzer.RestAna...
+  Just Eat UK.json: Tem 08, 2025 1:50:04 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:50:04 S cli.analyzer.RestAna...
+  SiteRecoveryManagementClient.json: Tem 08, 2025 1:53:05 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:53:05 S cli.analyzer.RestAna...
+  Amazon Relational Database Service.json: Tem 08, 2025 1:58:52 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 1:58:52 S cli.analyzer.RestAna...
+  Amazon Simple Email Service.json: Tem 08, 2025 2:03:37 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 2:03:37 S cli.analyzer.RestAna...
+  DevTestLabsClient.json: Tem 08, 2025 2:06:14 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 2:06:14 S cli.analyzer.RestAna...
+  OpenFEC.json: Tem 08, 2025 2:11:00 S cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 2:11:00 S cli.analyzer.RestAna...

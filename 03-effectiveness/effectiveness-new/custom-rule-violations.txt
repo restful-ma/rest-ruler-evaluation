@@ -1,0 +1,34 @@
+Custom violations for new rules:
+
+
+1. Must use official HTTP status codes: https://opensource.zalando.com/restful-api-guidelines/#243
+
+- An endpoint that returns "495 SSL Certificate Error" instead of "400 Bad Request" (done by nginx)
+- An endpoint that returns "400 Client Error" instead of "400 Bad Request" (or other non-standard variations of the text)
+- An endpoint that returns "401 Forbidden" instead of "401 Unauthorized"
+- An endpoint that returns "403 Unauthorized" instead of "403 Forbidden"
+- An endpoint that returns "200 Success" instead of "200 OK"
+
+2. Must use normalized paths without empty path segments: https://opensource.zalando.com/restful-api-guidelines/#136
+
+- GET /customers//{customerId}/
+- POST /categories/{categoryId}//products
+- DELETE /locations//{lid}/employees/{eid}/
+
+3. Must contain API meta information: https://opensource.zalando.com/restful-api-guidelines/#218
+
+- #/info/title as empty
+- #/info/title as "test"
+- #/info/version as empty
+- #/info/version as "no version"
+- #/info/description as empty
+- #/info/description as "Lorem ipsum"
+- #/info/contact/email as empty
+
+
+4. Using camelCase convention in the URIs: The tool currently enforces kebab-case, I added a new option to check for conformance to camelCase, depending on the preference of the tool's user.
+
+- GET /location-managers
+- PUT /CloudServices/{id}
+- POST /members-of-parliament
+- DELETE /shopping_cart/{id}

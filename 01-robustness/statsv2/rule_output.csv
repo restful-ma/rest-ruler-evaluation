@@ -1,0 +1,17 @@
+rule;appearances
+OpenAPI specification must contain required meta information;1880
+401 ("Unauthorized") must be used when there is a problem with the client's credentials;29313
+CamelCase should be used for multi-word URI segments;23225
+File extensions should not be included in URIs;651
+Forward slash separator (/) must be used to indicate a hierarchical relationship;12214
+Underscores (_) should not be used in URI;3579
+A singular noun should be used for document names;5268
+Content-Type must be used;26988
+GET must be used to retrieve a representation of a resource;2935
+A plural noun should be used for collection or store names;2773
+Description of request should match with the type of the request.;9322
+CRUD function names should not be used in URIs;2177
+Must use official HTTP status codes;50683
+A verb or verb phrase should be used for controller names;139
+A trailing forward slash (/) should not be included in URIs;1001
+Must use normalized paths without empty path segments;5
