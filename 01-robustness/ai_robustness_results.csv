@@ -1,0 +1,1707 @@
+title | number of Violations found
+1Forge Finance APIs | 2
+Events API | 8
+Authentiq API | 2
+Platform API | 52
+Control API v1 | 7
+IP geolocation API | 3
+Adafruit IO REST API | 325
+Adyen for Platforms: Account API | 34
+Issuing: Balance Platform API | 2
+Adyen BinLookup API | 6
+Adyen Checkout API | 17
+Adyen Checkout Utility Service | 5
+Adyen for Platforms: Fund API | 2
+Adyen for Platforms: Hosted Onboarding | 6
+Adyen for Platforms: Notification Configuration API | 13
+Adyen Payment API | 10
+Adyen Payout API | 1
+Adyen Recurring API | 4
+Adyen Test Cards API | 1
+Balance Platform Transfers API | 0
+Afterbanks API | 3
+AGCO API | 216
+AIception Interactive | 40
+Airbyte Configuration API | 481
+airportsapi | 3
+Akeneo PIM REST API | 182
+Flight Offers Search | 3
+AWS Migration Hub | 203
+Access Analyzer | 204
+AWS Certificate Manager | 122
+AWS Certificate Manager Private Certificate Authority | 204
+Alexa For Business | 491
+Amazon Prometheus Service | 152
+AWS Amplify | 213
+Amazon API Gateway | 816
+AmazonApiGatewayManagementApi | 14
+AmazonApiGatewayV2 | 328
+Amazon AppConfig | 196
+Amazon Appflow | 164
+Amazon AppIntegrations Service | 89
+Application Auto Scaling | 101
+Amazon CloudWatch Application Insights | 185
+AWS Application Cost Profiler | 32
+AWS App Mesh | 329
+AWS App Runner | 240
+Amazon AppStream | 466
+AWS AppSync | 331
+Amazon Athena | 385
+AWS Audit Manager | 323
+Auto Scaling | 671
+AWS Auto Scaling Plans | 45
+AWS Backup | 449
+AWS Batch | 119
+Braket | 90
+AWS Budgets | 223
+AWS Cost Explorer Service | 238
+Amazon Chime | 1702
+AWS Cloud9 | 130
+Amazon CloudDirectory | 877
+AWS CloudFormation | 564
+Amazon CloudFront | 907
+Amazon CloudHSM | 132
+AWS CloudHSM V2 | 137
+Amazon CloudSearch | 376
+Amazon CloudSearch Domain | 14
+AWS CloudTrail | 608
+CodeArtifact | 334
+AWS CodeBuild | 290
+AWS CodeCommit | 1344
+AWS CodeDeploy | 540
+Amazon CodeGuru Reviewer | 86
+Amazon CodeGuru Profiler | 133
+AWS CodePipeline | 331
+AWS CodeStar | 148
+AWS CodeStar connections | 77
+AWS CodeStar Notifications | 65
+Amazon Cognito Identity | 224
+Amazon Cognito Identity Provider | 1176
+Amazon Cognito Sync | 126
+Amazon Comprehend | 769
+AWS Comprehend Medical | 226
+AWS Compute Optimizer | 237
+AWS Config | 642
+Amazon Connect Service | 1369
+Amazon Connect Contact Lens | 9
+Amazon Connect Participant Service | 62
+AWS Cost and Usage Report Service | 24
+Amazon Connect Customer Profiles | 257
+AWS Glue DataBrew | 172
+AWS Data Exchange | 172
+AWS Data Pipeline | 141
+AWS DataSync | 249
+Amazon DynamoDB Accelerator (DAX) | 195
+Amazon Detective | 183
+AWS Device Farm | 670
+Amazon DevOps Guru | 207
+AWS Direct Connect | 370
+AWS Application Discovery Service | 256
+Amazon Data Lifecycle Manager | 37
+AWS Database Migration Service | 439
+Amazon DocumentDB with MongoDB compatibility | 712
+AWS Directory Service | 683
+Amazon DynamoDB | 439
+Amazon Elastic Block Store | 51
+AWS EC2 Instance Connect | 24
+Amazon EC2 Container Registry | 372
+Amazon Elastic Container Registry Public | 204
+Amazon EC2 Container Service | 473
+Amazon Elastic Kubernetes Service | 241
+Amazon Elastic  Inference | 28
+Amazon ElastiCache | 1089
+AWS Elastic Beanstalk | 435
+Amazon Elastic File System | 204
+Elastic Load Balancing | 491
+Amazon EMR | 291
+Amazon Elastic Transcoder | 129
+Amazon Simple Email Service | 473
+Amazon EMR Containers | 78
+AWS Marketplace Entitlement Service | 7
+Amazon Elasticsearch Service | 385
+Amazon EventBridge | 393
+Amazon CloudWatch Events | 361
+FinSpace User Environment Management service | 41
+FinSpace Public API | 227
+Amazon Kinesis Firehose | 94
+AWS Fault Injection Simulator | 44
+Firewall Management Service | 363
+Amazon Forecast Service | 423
+Amazon Forecast Query Service | 18
+Amazon Fraud Detector | 644
+Amazon FSx | 406
+Amazon GameLift | 865
+Amazon Glacier | 213
+AWS Global Accelerator | 443
+AWS Glue | 1690
+AWS Greengrass | 279
+AWS IoT Greengrass V2 | 200
+AWS Ground Station | 145
+Amazon GuardDuty | 265
+AWS Health APIs and Notifications | 77
+Amazon HealthLake | 99
+Amazon Honeycode | 143
+AWS Identity and Access Management | 2158
+AWS SSO Identity Store | 181
+EC2 Image Builder | 599
+Amazon Inspector | 306
+AWS IoT | 1718
+AWS IoT Data Plane | 61
+AWS IoT Jobs Data Plane | 30
+AWS IoT 1-Click Devices Service | 70
+AWS IoT 1-Click Projects Service | 72
+AWS IoT Analytics | 219
+AWS IoT Core Device Advisor | 54
+AWS IoT Events | 184
+AWS IoT Events Data | 81
+AWS IoT Fleet Hub | 40
+AWS IoT Secure Tunneling | 36
+AWS IoT SiteWise | 471
+AWS IoT Things Graph | 270
+AWS IoT Wireless | 754
+Amazon Interactive Video Service | 194
+Managed Streaming for Kafka | 262
+AWSKendraFrontendService | 633
+Amazon Kinesis | 286
+Amazon Kinesis Video Streams Archived Media | 58
+Amazon Kinesis Video Streams Media | 9
+Amazon Kinesis Video Signaling Channels | 17
+Amazon Kinesis Analytics | 293
+Amazon Kinesis Video Streams | 209
+AWS Key Management Service | 539
+AWS Lake Formation | 378
+AWS Lambda | 482
+Amazon Lex Model Building Service | 273
+AWS License Manager | 516
+Amazon Lightsail | 1763
+Amazon Location Service | 418
+Amazon CloudWatch Logs | 418
+Amazon Lookout for Equipment | 309
+Amazon Lookout for Metrics | 244
+Amazon Lookout for Vision | 188
+Amazon Machine Learning | 215
+Amazon Macie | 48
+Amazon Managed Blockchain | 178
+AWS Marketplace Catalog Service | 98
+AWS Marketplace Commerce Analytics | 8
+AWS MediaConnect | 382
+AWS Elemental MediaConvert | 225
+AWS Elemental MediaLive | 511
+AWS Elemental MediaPackage | 128
+AWS Elemental MediaPackage VOD | 115
+AWS Elemental MediaStore | 166
+AWS Elemental MediaStore Data Plane | 18
+AWS MediaTailor | 58
+AWSMarketplace Metering | 44
+Application Migration Service | 373
+AWS Migration Hub Config | 26
+AWS Mobile | 67
+Amazon Mobile Analytics | 5
+Amazon Lex Model Building V2 | 526
+Amazon CloudWatch | 428
+AmazonMQ | 126
+Amazon Mechanical Turk | 220
+AmazonMWAA | 46
+Amazon Neptune | 908
+AWS Network Firewall | 341
+AWS Network Manager | 626
+AmazonNimbleStudio | 451
+AWS OpsWorks | 512
+AWS OpsWorks CM | 141
+AWS Organizations | 660
+AWS Outposts | 139
+Amazon Personalize | 450
+Amazon Personalize Events | 13
+Amazon Personalize Runtime | 7
+AWS Performance Insights | 42
+Amazon Pinpoint | 998
+Amazon Pinpoint Email Service | 242
+Amazon Polly | 56
+AWS Price List Service | 43
+AWS Proton | 782
+Amazon QLDB Session | 9
+Amazon QuickSight | 1089
+AWS Resource Access Manager | 362
+Amazon Relational Database Service | 1944
+AWS RDS DataService | 49
+Amazon Redshift | 1596
+Redshift Data API Service | 64
+Amazon Rekognition | 721
+AWS Resource Groups | 162
+AWS Resource Groups Tagging API | 68
+AWS RoboMaker | 359
+Amazon Route 53 | 393
+Amazon Route 53 Domains | 266
+Amazon Route 53 Resolver | 589
+Amazon Lex Runtime Service | 44
+Amazon Lex Runtime V2 | 42
+Amazon SageMaker Runtime | 13
+Amazon Simple Storage Service | 211
+AWS S3 Control | 204
+Amazon S3 on Outposts | 44
+Amazon SageMaker Service | 1446
+Amazon Augmented AI Runtime | 32
+Amazon Sagemaker Edge Manager | 15
+Amazon SageMaker Feature Store Runtime | 34
+AWS Savings Plans | 53
+Schemas | 230
+Amazon SimpleDB | 80
+AWS Secrets Manager | 185
+AWS SecurityHub | 395
+AWSServerlessApplicationRepository | 88
+Service Quotas | 202
+AWS Service Catalog | 546
+AWS Service Catalog App Registry | 118
+AWS Cloud Map | 210
+AWS Shield | 312
+AWS Signer | 116
+AWS Server Migration Service | 337
+Amazon Pinpoint SMS and Voice Service | 46
+Amazon Simple Notification Service | 715
+Amazon Simple Queue Service | 258
+Amazon Simple Systems Manager (SSM) | 1030
+AWS Systems Manager Incident Manager Contacts | 359
+AWS Systems Manager Incident Manager | 228
+AWS Single Sign-On | 32
+AWS Single Sign-On Admin | 345
+AWS SSO OIDC | 26
+AWS Step Functions | 181
+AWS Storage Gateway | 600
+Amazon DynamoDB Streams | 32
+AWS Security Token Service | 85
+AWS Support | 93
+Amazon Simple Workflow Service | 237
+Synthetics | 109
+Amazon Textract | 168
+Amazon Timestream Query | 132
+Amazon Timestream Write | 203
+Amazon Transcribe Service | 302
+AWS Transfer Family | 509
+Amazon Translate | 170
+AWS WAF | 718
+AWS WAF Regional | 750
+AWS WAFV2 | 523
+AWS Well-Architected Tool | 295
+Amazon WorkDocs | 372
+Amazon WorkLink | 224
+Amazon WorkMail | 668
+Amazon WorkMail Message Flow | 8
+Amazon WorkSpaces | 472
+AWS X-Ray | 163
+Aviation Radiation API | 34
+ Seller Service Metrics API  | 25
+Compliance API | 19
+Vehicle Enquiry API | 3
+api.video | 58
+Swagger API2Cart | 558
+Api2Pdf - PDF Generation, Powered by AWS Lambda | 7
+ApiDapp | 26
+Ecosystem API | 1
+Marketcheck APIs | 122
+Department of Food, Public Distribution & Consumer Affairs (PDS), Jharkhand | 2
+Acko General Insurance Limited | 4
+Accountants General, Tripura | 4
+Food, Civil Supplies and Consumer Affairs Department, Karnataka | 2
+AIIMS Mangalagiri | 2
+AIIMS, Patna | 2
+AIIMS Rishikesh | 2
+Dr. A. P. J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh | 3
+Department of Agricultural Marketing, Karnataka | 2
+Agricultural Scientists Recruitment Board | 2
+Bajaj Allianz General Insurance Company Ltd. (BAGIC) | 9
+Bajaj Allianz Life Insurance Company Ltd | 3
+Dr. Babasaheb Ambedkar Research & Training Institute, Maharashtra | 2
+Ministry of Petroleum and Natural Gas(BPCL) | 2
+Bharti AXA General Insurance Company Ltd. | 7
+Department of Pension and Pensioners Welfare | 3
+Bihar State Board of School Examination, Bihar | 3
+Biju Patnaik University Of Technology, Odisha | 2
+Haryana State Board of School Education, Haryana | 3
+Central Board of Secondary Education | 18
+Chhattisgarh State Board of Secondary Education, Chhattisgarh | 3
+Greater Chennai Corporation, Tamil Nadu | 3
+Chitkara University | 2
+Cholamandalam MS General Insurance Company Ltd. | 3
+CISCE | 6
+Civil Supplies Department, Kerala | 2
+CPCT-MAPIT, Madhya Pradesh | 2
+Common Service Centre (CSC) | 3
+Dr. B.R. Ambedkar Institute of Technology,Andaman & Nicobar Islands | 2
+Tamil Nadu State Board (Tamil Nadu Directorate of Government Examinations), Tamil Nadu | 3
+Importer-Exporter Details API | 2
+BOARD OF HIGHER SECONDARY EXAMINATION, KERALA, Kerala | 2
+Department of IT and Communication, Arunachal Pradesh | 2
+eDistrict Chandigarh, Chandigarh | 6
+Directorate of Information Technology, Government of Tripura, Tripura | 22
+University Of Delhi | 2
+eDistrict Andaman & Nicobar Islands, Andaman & Nicobar | 16
+eDistrict Himachal Pradesh, Himachal Pradesh | 42
+eDistrict Kerala, Kerala | 29
+eDistrict Odisha, Odisha | 8
+eDistrict Odisha ServicePlus, Odisha | 9
+Punjab State eGovernance Society, Punjab | 10
+eDistrict Uttar Pradesh, Uttar Pradesh | 8
+Department of Food and Civil Supplies Himachal Pradesh, Himachal Pradesh | 2
+Revenue, Registration & Land Reforms Department, Jharkhand | 4
+Employees' Provident Fund Organization | 6
+Himachal Pradesh Department of Revenue, Himachal Pradesh | 20
+eService (eDistrict), Arunachal Pradesh | 7
+Food and Supplies Department, Haryana | 2
+Future Generali Total Insurance Solutions | 7
+General Administration Department, Bihar | 6
+Gauhati University | 2
+Goa State Board of Secondary and Higher Secondary Education, Goa | 2
+Geetanjali University, Udaipur | 2
+GMCH, Chandigarh | 2
+Goa Water Resources Department, Goa | 5
+Go Digit General Insurance Ltd. | 4
+Gujarat Vidyapith, Ahmedabad | 2
+Ministry of Petroleum and Natural Gas (HPCL) | 2
+Board of Ayurvedic and Unani Systems of Medicine, Himachal Pradesh, Himachal Pradesh | 3
+Himachal Pradesh Board of School Education, Himachal Pradesh | 3
+Panchayati Raj Department, Himachal Pradesh, Himachal Pradesh | 2
+HP Swasthya Bima Yojna Society, Himachal Pradesh | 2
+HP Staff Selection Commission - HPSSC - Himachal Pradesh, Himachal Pradesh | 3
+Himachal Pradesh Takniki Shiksha Board Dharamshala, Himachal Pradesh | 2
+Haryana State Board of Technical Education, Haryana | 2
+Maharashtra State Board of Secondary and Higher Secondary Education, Maharashtra | 5
+ICICI Lombard GIC Ltd. | 9
+ICICI Prudential Life Insurance Company Ltd | 3
+Institute of Company Secretaries of India | 3
+Department of Registration & Stamps, Maharashtra | 2
+Indian Navy (INS Valsura) | 3
+Ministry of Petroleum and Natural Gas (IOCL) | 3
+DigiLocker Issuer APIs | 9
+Jharkhand State Board (Jharkhand Academic Council), Jharkhand | 5
+Joint Entrance Examination Council, Uttar Pradesh, Uttar Pradesh | 3
+Jharsewa (eDistrict), Jharkhand | 9
+Jawaharlal Nehru Rajkeeya Mahavidyalaya | 2
+Jaypee University Of Information Technology, Waknaghat (H. P.) | 2
+KERALA PUBLIC SERVICE COMMISSION, Kerala | 2
+Karnataka Industrial Areas Development Board, Karnataka | 9
+Krishna Kanta Handique State Open University (KKHSOU), Assam | 3
+Kotak Mahindra General Insurance Company Ltd. | 8
+Karnataka Secondary Education Examination Board, Karnataka | 2
+Department of IT and BT, Karnataka | 4
+Labour Resource Department, Bihar | 8
+Revenue Department - Land Records, Karnataka | 5
+Andaman Law College, Andaman & Nicobar | 2
+Department of Legal Metrology, Uttar Pradesh | 7
+Life Insurance Corporation of India | 3
+Max Life Insurance Co. Ltd. | 3
+Meghalaya Board of School Education, Tura, Meghalaya | 3
+Mizoram State Board of School education | 5
+Maharashtra Council of Indian Medicine | 3
+Meark Enterprise Pvt. Ltd. | 3
+Labour Employment, Skill Development and Entrepreneurship, Mizoram | 2
+Mizoram Police, Mizoram | 2
+Madhya Pradesh Medical Science University, Jabalpur M.P., Madhya Pradesh | 5
+Paramedical Council, Madhya Pradesh | 3
+Manav Rachna International Institute of Research & Studies | 2
+Ministry of Skill Development And Entrepreneurship | 2
+Directorate of Municipal Administration, Karnataka | 5
+National Insurance Company Ltd. | 12
+NCERT | 2
+National e-Governance Division | 2
+National Institute of Electronics and Information Technology | 3
+New India Assurance Co. Ltd. | 9
+NIESBUD | 2
+National Institute of Open Schooling | 7
+National Institute Of Technology Arunachal Pradesh | 2
+National Institute of Technology, Patna | 2
+Sailu Municipal Council, Maharashtra | 2
+National Skill Development Corporation (NSDC) | 4
+The Oriental Insurance Co. Ltd. | 13
+Income Tax Department | 2
+Kerala State Board of Public Examinations, Kerala | 2
+Department of Labour, Govt of Punjab, Punjab | 5
+PGIMER, Chandigarh | 2
+Public Health Engineering Department, Haryana, Haryana | 4
+National Health Authority | 2
+Pramerica Life Insurance Ltd. | 3
+Punjab School Education Board, Punjab | 7
+Karnataka State Board (Department of Pre University Education), Karnataka | 2
+The Punjab State Board of Technical Education & Industrial Training | 2
+Social Justice and Empowerment Department, Rajasthan | 2
+Rajasthan Board of Secondary Education | 3
+Reliance General Insurance Company Ltd | 8
+Revenue & Disaster Management Department, Assam, Assam | 2
+Revenue Department, Odisha | 3
+Department of Sainik Welfare, Puducherry | 2
+Antyodaya Saral Haryana, Haryana | 2
+SBI General Insurance Company Ltd | 7
+UP State Council of Vocational Training, Uttar Pradesh, Uttar Pradesh | 3
+Assam State Board of Secondary Education, Assam | 2
+Directorate of Economics and Statistics Cum Chief Registrar, Rajasthan, Rajasthan | 4
+Department of Empowerment of Persons with Disabilities | 3
+Tata AIA Life Insurance Co. Ltd. | 5
+Tata AIG General Insurance Company Ltd. | 3
+Tripura State Board of Secondary Education, Tripura | 2
+Ministry of Road Transport and Highways | 6
+Transport Department, Andaman & Nicobar | 3
+Transport Department, Andhra  Pradesh | 3
+Transport Department, Arunachal Pradesh | 3
+Transport Department, Assam | 3
+Transport Department, Bihar | 3
+Transport Department, Chhattisgarh | 3
+Transport Department, Daman & Diu | 3
+Transport Department, Dadra & Nagar Haveli | 3
+Transport Department, Delhi | 3
+Transport Department, Goa | 3
+Transport Department, Gujarat | 3
+Transport Department, Himachal Pradesh | 3
+Transport Department, Haryana | 3
+Transport Department, Jharkhand | 3
+Transport Department, Jammu & Kashmir | 3
+Karnataka Department of Transport, Karnataka | 3
+Motor Vehicle Department, Kerala | 3
+Transport Department, Lakshadweep | 3
+Motor Vehicle Department, Maharashtra | 3
+Transport Department, Meghalaya | 3
+Transport Department, Manipur | 3
+Transport Department, Madhya Pradesh | 3
+Transport Department, Mizoram | 3
+Motor Vehicle Department, Nagaland | 3
+Motor Vehicle Department, Odisha | 3
+Transport Department, Punjab | 3
+Transport Department, Puducherry | 3
+Transport Department, Rajasthan | 3
+Transport Department, Sikkim | 3
+Transport Department, Tamil Nadu | 3
+Transport Department, Tripura | 3
+State Transport Department, Telangana | 3
+Transport Department, Uttarakhand | 3
+Transport Department, Uttar Pradesh | 3
+Transport Department, West Bengal | 3
+Uttarakhand State Board of School Education, Uttarakhand | 4
+UCO Bank | 2
+United India Insurance Company Limited | 3
+UP State Board of High School and Intermediate Education, Uttar Pradesh | 3
+Board of Vocational Higher Secondary Examinations, Kerala | 2
+Veer Surendra Sai University Of Technology | 2
+Bulk WHOIS API | 13
+Identity API | 6
+App Store Connect API | 444
+SiriKit Cloud Media | 14
+PowerTools Developer | 191
+AppVeyor REST API | 62
+Appwrite | 160
+Search Services | 8
+Wayback API | 5
+ART19 Content API Documentation | 115
+Asana | 140
+SearchLy API v1 | 6
+The Jira Cloud platform REST API | 1649
+Auckland Museum API | 19
+Avaza API Documentation | 180
+AviationData.Systems Airports API V1 | 13
+Axesso Api | 15
+Azure Enterprise Knowledge Graph Service | 10
+Azure Addons Resource Provider | 11
+ADHybridHealthService | 232
+AdvisorManagementClient | 40
+Azure Alerts Management Service Resource Provider | 15
+AzureAnalysisServices | 48
+ApiManagementClient | 10
+AppConfigurationManagementClient | 46
+Azure Log Analytics Query Packs | 14
+ApplicationInsightsManagementClient | 12
+Application Insights Data Plane | 17
+WorkbookClient | 4
+AppPlatformManagementClient | 77
+AttestationClient | 10
+AuthorizationManagementClient | 14
+AutomationManagement | 17
+Update Management | 7
+AutomationManagementClient | 15
+SubscriptionsManagementClient | 5
+DeploymentAdminClient | 18
+AzureBridgeAdminClient | 10
+InfrastructureInsightsManagementClient | 7
+FabricAdminClient | 7
+BackupManagementClient | 9
+CommerceManagementClient | 4
+Compute Admin Client | 11
+ComputeDiskAdminManagementClient | 5
+GalleryManagementClient | 11
+KeyVaultManagementClient | 3
+NetworkAdminManagementClient | 4
+SubscriptionClient | 35
+UpdateAdminClient | 13
+StorageManagementClient | 6
+KustoManagementClient | 63
+azureactivedirectory | 16
+AzureDataManagementClient | 23
+Azure Stack Azure Bridge Client | 18
+AzureStack Azure Bridge Client | 25
+BatchManagement | 80
+BatchService | 91
+BatchAI | 77
+BillingManagementClient | 296
+BlockchainManagementClient | 48
+BlueprintClient | 24
+Azure Bot Service | 40
+CdnManagementClient | 107
+Azure CDN WebApplicationFirewallManagement | 13
+CognitiveServicesManagementClient | 24
+Anomaly Detector Client | 9
+Anomaly Finder Client | 6
+Computer Vision | 11
+Content Moderator Client | 92
+Face Client | 126
+Form Recognizer Client | 21
+Ink Recognizer Client | 4
+LUIS Authoring Client | 212
+LUIS Programmatic | 127
+Language Understanding Intelligent Service (LUIS) Endpoint API for running predictions and extracting user intentions and entities from utterances. | 5
+Personalizer Client | 23
+QnAMaker Client | 26
+QnAMaker Runtime Client | 6
+Text Analytics Client | 12
+UsageManagementClient | 6
+ComputeManagementClient | 4
+ContainerServiceClient | 13
+DiskResourceProviderClient | 66
+SharedImageGalleryServiceClient | 52
+RunCommandsClient | 12
+ComputeManagementConvenienceClient | 5
+ConsumptionManagementClient | 89
+ContainerInstanceManagementClient | 36
+ContainerRegistryManagementClient | 25
+Cosmos DB | 5
+CostManagementClient | 25
+CustomerInsightsManagementClient | 162
+Customer Lockbox | 14
+customproviders | 26
+DataBoxManagementClient | 42
+DataBoxEdgeManagementClient | 127
+DatabricksClient | 19
+Azure Data Catalog Resource Provider | 8
+DataFactoryManagementClient | 221
+DataLakeAnalyticsAccountManagementClient | 67
+DataLakeAnalyticsCatalogManagementClient | 88
+DataLakeAnalyticsJobManagementClient | 14
+DataLakeStoreAccountManagementClient | 53
+DataLakeStoreFileSystemManagementClient | 7
+Azure Data Migration Service Resource Provider | 61
+DataShareManagementClient | 113
+AzureDeploymentManager | 55
+iotDpsClient | 47
+Azure DevOps | 20
+DevSpacesManagement | 15
+DevTestLabsClient | 314
+AzureDigitalTwinsManagementClient | 34
+DnsManagementClient | 19
+Domain Services Resource Provider | 9
+Dynamics Telemetry | 4
+EngagementFabric | 27
+EventGridManagementClient | 95
+EventHubManagementClient | 102
+EventHub2018PreviewManagementClient | 59
+FrontDoorManagementClient | 50
+NetworkExperiments | 34
+WebApplicationFirewallManagement | 13
+GuestConfiguration | 5
+HanaManagementClient | 26
+Azure Dedicated HSM Resource Provider | 14
+HDInsightManagementClient | 18
+HDInsightJobManagementClient | 26
+HealthcareApisClient | 22
+HybridComputeManagementClient | 29
+HybridDataManagementClient | 69
+VirtualMachineImageTemplate | 27
+InstanceMetadataClient | 3
+IntuneResourceManagementClient | 61
+Azure IoT Central | 3
+iotHubClient | 77
+IoTSpacesClient | 22
+KeyVaultClient | 70
+ManagedLabsClient | 160
+Azure Location Based Services Resource Provider | 27
+LogicManagementClient | 240
+Azure ML Commitment Plans Management Client | 16
+Azure ML Web Services Management Client | 14
+Machine Learning Workspaces Management Client | 22
+Machine Learning Compute Management Client | 20
+ML Team Account Management Client | 34
+Artifact | 78
+Azure Machine Learning Datastore Management Client | 28
+Execution Service | 18
+HyperDrive | 7
+Azure Machine Learning Workspaces | 61
+Azure Machine Learning Model Management Service | 73
+Run History APIs | 105
+MaintenanceManagementClient | 28
+ManagedNetworkManagementClient | 43
+ManagedServicesClient | 26
+Management Groups | 10
+ACE Provisioning ManagementPartner | 9
+Azure Maps Resource Provider | 29
+MariaDBManagementClient | 15
+Marketplace RP Service | 14
+MarketplaceOrdering.Agreements | 18
+Azure Media Services | 41
+MediaServicesManagementClient | 26
+Azure Migrate V2 | 68
+Azure Migrate Hub | 49
+Mixed Reality | 16
+Engagement.ManagementClient | 99
+Azure Action Groups | 21
+Azure Activity Log Alerts | 15
+MonitorManagementClient | 6
+Guest Diagnostic Settings Association | 14
+Guest Diagnostic Settings | 15
+Azure Metrics | 1
+Azure Monitor Private Link Scopes | 39
+Microsoft Insights | 16
+VM Insights Onboarding | 4
+ManagedServiceIdentityClient | 16
+MySQLManagementClient | 15
+Microsoft NetApp | 106
+NetworkManagementClient | 10
+ExpressRouteCrossConnection REST APIs | 32
+VirtualWANAsAServiceManagementClient | 114
+NotificationHubsManagementClient | 64
+Azure Log Analytics | 4
+Azure Log Analytics - Operations Management | 32
+PeeringManagementClient | 79
+PolicyEventsClient | 35
+PolicyMetadataClient | 8
+PolicyStatesClient | 64
+PolicyTrackedResourcesClient | 16
+RemediationsClient | 62
+portal | 16
+PostgreSQLManagementClient | 5
+PowerBIDedicated | 34
+Power BI Embedded Management Client | 17
+PrivateDnsManagementClient | 21
+RecoveryServicesBackupClient | 4
+RecoveryServicesClient | 5
+SiteRecoveryManagementClient | 426
+RedisManagementClient | 62
+Relay | 69
+Azure Reservation | 16
+Azure Resource Graph | 7
+Azure Resource Graph Query | 12
+Microsoft.ResourceHealth | 40
+ResourceManagementClient | 196
+DeploymentScriptsClient | 20
+FeatureClient | 13
+ManagementLinkClient | 14
+ManagementLockClient | 37
+ApplicationClient | 48
+PolicyClient | 26
+SchedulerManagementClient | 23
+SearchManagementClient | 40
+SearchIndexClient | 15
+SearchServiceClient | 32
+Security Center | 10
+Security Insights | 27
+MicrosoftSerialConsoleClient | 10
+ServerManagement | 74
+Service Map | 53
+ServiceBusManagementClient | 41
+ServiceFabricManagementClient | 24
+SeaBreezeManagementClient | 96
+SignalRManagementClient | 32
+Software Plan RP | 19
+SqlManagementClient | 17
+Azure SQL Database Backup Long Term Retention Policy | 6
+Azure SQL Server Backup Long Term Retention Vault | 6
+Azure SQL Database Backup | 9
+Azure SQL Database | 13
+Azure SQL Server API spec | 3
+Azure SQL Database Datamasking Policies and Rules | 7
+Azure SQL Database disaster recovery configurations | 15
+Azure SQL Database replication links | 15
+SqlVirtualMachineManagementClient | 40
+StorSimpleManagementClient | 221
+Azure Data Lake Storage | 13
+Storage Cache Mgmt Client | 36
+StorageImportExport | 25
+Microsoft Storage Sync | 111
+StorSimple8000SeriesManagementClient | 216
+StreamAnalyticsManagementClient | 6
+SubscriptionDefinitionsClient | 17
+Microsoft.Support | 37
+TimeSeriesInsightsClient | 40
+TrafficManagerManagementClient | 9
+Visual Studio Resource Provider Client | 43
+Visual Studio Projects Resource Provider Client | 11
+VMwareCloudSimple | 76
+AppServiceCertificateOrders API Client | 50
+AppServiceEnvironments API Client | 90
+AppServicePlans API Client | 64
+CertificateRegistrationProvider API Client | 5
+Certificates API Client | 15
+DeletedWebApps API Client | 13
+Diagnostics API Client | 46
+DomainRegistrationProvider API Client | 5
+Domains API Client | 36
+Provider API Client | 11
+Recommendations API Client | 47
+ResourceHealthMetadata API Client | 16
+ API Client | 43
+TopLevelDomains API Client | 10
+LogicAppsManagementClient | 60
+WebSite Management Client | 718
+windowsesu | 17
+DeviceServices | 19
+Workload Monitor | 32
+Bandsintown API | 1
+Radio & Music Services | 31
+BBC Nitro API | 49
+BBC iPlayer Business Layer | 14
+BC Laws | 20
+Beanstream Payments | 5
+BeezUP Merchant API  | 521
+Betfair: Exchange Streaming API | 0
+SEDRA IV API | 2
+Bhagavad Gita API | 35
+Budgea API Documentation | 312
+500,000+ Recipe and Grocery List API (v2) | 63
+Big Red Cloud API | 98
+BikeWise API v2 | 15
+Billingo API v3 | 10
+BIN Lookup API | 8
+Bitbucket API | 400
+Blazemeter API Explorer | 35
+IBM Containers API | 183
+Botify API | 83
+FastAPI | 3
+Box Platform API | 533
+brainbi | 43
+BrandLovers Marketplace API V1 | 140
+Braze Endpoints | 126
+KYC API Documentation | 223
+bridgedb webservices | 30
+Browshot API | 40
+Bufferapp | 141
+BulkSMS JSON REST API | 33
+bunq API | 209
+Automata Market Intelligence API | 19
+API for the COVID-19 Tracking QR Code Signin Server. | 13
+Call Control API | 20
+CalorieNinjas | 4
+Cambase.io | 98
+CarbonDoomsDay | 9
+Prime ReportStream | 30
+Cenit IO - REST API Specification | 99
+Chaingateway.io | 34
+API V1 | 24
+Channel 4 API | 186
+Chomp Food Database API Documentation | 27
+CircleCI REST API | 46
+Cisco PSIRT openVuln API | 71
+GoToMeeting | 46
+SCIM | 104
+api.clarify.io | 66
+ClearBlade API | 463
+Clever-Cloud API | 534
+Data API | 59
+ClickMeter API | 328
+ClickSend REST API v3 | 246
+Climate FieldView Platform APIs | 49
+climateKuul live | 56
+ecwid | 435
+ocrapi | 46
+Cloud-RF API | 45
+Clubhouse API | 134
+Cnab Online | 2
+CodeScan API | 2
+Debian Code Search | 7
+Public Api | 163
+ConfigCat Public Management API | 287
+The Consumer Financial Protection Bureau | 15
+Contract.fit API | 576
+CORE API v2 | 92
+Corrently.io | 49
+COVID-19 data API | 6
+Co-WIN Certificate API | 5
+Crediwatch's Covid APIs | 7
+Crucible | 277
+EU BON UTIS | 8
+CyCAT.org API | 42
+D7SMS | 8
+Regulations.gov | 19
+Data2CRM.API | 641
+Open Skills API | 14
+Dataflow Kit Web Scraper | 5
+api.datumbox.com | 57
+Deep Art Effects | 10
+departureboard.io API | 52
+Betriebsstellen | 3
+Fahrplan-Free | 2
+FaSta - Station Facilities Status | 16
+Flinkster_API_NG | 8
+Reisezentren-API | 5
+Stationsdatenbereitstellung | 3
+DLx | 43
+Authorized Partner API Specification | 50
+DigitalNZ API | 7
+Discourse API Documentation | 204
+Docker Engine API | 444
+DocuSign REST API | 579
+Domains-Index API | 67
+DropX | 152
+dweet.io | 52
+EasyPDFServer | 2
+Browse API | 88
+Deal API | 23
+Catalog API | 14
+Taxonomy API | 58
+Translation API | 3
+Progress to Rate Limit API | 12
+Feed API | 141
+Listing API | 8
+Logistics API | 38
+Negotiation API | 13
+Recommendation API | 5
+CROssBAR Data API | 47
+elmah.io API | 140
+API v1.0.0 | 118
+Net API | 5
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Air Act | 37
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Enforcement Case Search | 53
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Clean Water Act (CWA) Rest Services | 76
+U.S. EPA Enforcement and Compliance History Online (ECHO) - All Data | 37
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Effluent Charting and Reporting | 16
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Resource Conservation and Recovery Act  | 38
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Safe Drinking Water Act | 20
+ESG Rating Data | 3
+Etherpad API | 68
+EtMDB REST API v1 | 88
+ETSI GS MEC 010-2 - Part 2: Application lifecycle, rules and requirements management | 22
+Europeana Search & Record API | 53
+EVEMarketer Marketstat API | 14
+EVE Swagger Interface | 658
+ExaVault | 23
+ExchangeRate-API | 1
+Ex Libris APIs | 41
+JSON storage | 1
+Extpose | 5
+Exude API Service | 1
+Api Documentation | 23
+Faretrotter Travel API | 19
+OpenFEC | 501
+Fisheye Crucible | 281
+Figshare API | 551
+Files.com API | 2699
+Fire Financial Services Business API | 81
+IoTVAS API | 38
+FRC Events | 3
+FishEye | 68
+Flat API | 101
+Flickr API Schema | 50
+API v1 | 43
+Frankie Financial API | 58
+FraudLabs Pro Fraud Detection | 8
+FraudLabs Pro SMS Verification | 7
+Freesound | 5
+Fulfillment.com APIv2 | 20
+Barcode API | 7
+Fake identity generation API | 20
+Random Lottery Number generator API | 3
+Name Generation API | 2
+Pirates API | 9
+Fun Generators API | 5
+Facts API | 10
+Shakespeare API | 7
+Taunt as a service | 2
+UUID Generation API | 5
+FunTranslations Braille API | 4
+FunTranslations API | 63
+Starwars Translations API | 14
+Furkot Trips | 4
+MIMIC REST API | 1325
+GeoDataSource Location Search | 3
+geodesystems.com:443 | 916
+GoToTraining | 70
+GoToWebinar | 117
+Postman API | 17
+Sandbox API | 9
+bng2latlong | 1
+Getty Images | 281
+Giphy API | 66
+Gisgraphy webservices | 40
+Gitlab | 832
+GlobalWineScore API Documentation | 10
+Google Home | 94
+Abusive Experience Report API | 3
+Accelerated Mobile Pages (AMP) URL API | 5
+Access Approval API | 19
+Access Context Manager API | 14
+Ad Exchange Buyer API | 74
+Ad Exchange Buyer API II | 113
+Ad Experience Report API | 3
+Admin SDK API | 21
+AdMob API | 16
+AdSense Management API | 55
+AdSense Host API | 42
+Google Workspace Alert Center API | 26
+Google Analytics API | 113
+Google Analytics Admin API | 149
+Google Analytics Data API | 24
+Analytics Reporting API | 10
+Android Device Provisioning Partner API | 38
+Google Play EMM API | 202
+Android Management API | 28
+Google Play Android Developer API | 262
+API Gateway API | 24
+Apigee API | 231
+API Keys API | 17
+App Engine Admin API | 94
+Drive Activity API | 5
+Area120 Tables API | 27
+Artifact Registry API | 44
+Assured Workloads API | 28
+Cloud AutoML API | 64
+Bare Metal Solution API | 75
+BigQuery API | 54
+BigQuery Connection API | 21
+BigQuery Data Transfer API | 29
+BigQuery Reservation API | 30
+Cloud Billing Budget API | 8
+Binary Authorization API | 23
+Blogger API | 68
+Books API | 18
+Calendar API | 59
+Google Chat API | 14
+Chrome Management API | 38
+Chrome Policy API | 63
+Chrome UX Report API | 7
+Google Civic Information API | 6
+Google Classroom API | 106
+Cloud Asset API | 6
+Cloud Billing API | 6
+Cloud Build API | 11
+Cloud Channel API | 105
+Cloud Debugger API | 24
+Error Reporting API | 13
+Cloud Functions API | 32
+Cloud Identity API | 84
+Cloud IoT API | 43
+Cloud Key Management Service (KMS) API | 72
+Cloud Private Catalog | 10
+Cloud Private Catalog Producer | 43
+Stackdriver Profiler API | 9
+Cloud Resource Manager API | 63
+Cloud Scheduler API | 20
+Cloud Search API | 99
+Cloud Shell API | 21
+Cloud Tasks API | 44
+Cloud Trace API | 8
+Perspective Comment Analyzer API | 7
+Cloud Composer API | 24
+Contact Center AI Insights API | 53
+Kubernetes Engine API | 171
+Container Analysis API | 40
+Content API for Shopping | 214
+Custom Search API | 3
+Google Cloud Data Catalog API | 54
+Dataflow API | 99
+Cloud Data Fusion API | 43
+Data Labeling API | 62
+Database Migration API | 51
+Cloud Dataproc API | 82
+Cloud Datastore API | 7
+Cloud Deployment Manager V2 API | 77
+Campaign Manager 360 API | 351
+Dialogflow API | 127
+Digital Asset Links API | 7
+API Discovery Service | 1
+Display & Video 360 API | 299
+Cloud Data Loss Prevention (DLP) API | 49
+Cloud DNS API | 76
+Google Docs API | 10
+Cloud Document AI API | 58
+Cloud Domains API | 68
+Domains RDAP API | 12
+Search Ads 360 API | 31
+Drive API | 72
+Essential Contacts API | 15
+Eventarc API | 27
+Fact Check Tools API | 11
+Firebase Cloud Messaging API | 4
+Firebase Cloud Messaging Data API | 3
+Cloud Filestore API | 30
+Firebase Management API | 49
+Firebase App Check API | 78
+Firebase Realtime Database API | 17
+Firebase Dynamic Links API | 15
+Firebase Hosting API | 29
+Firebase ML API | 10
+Firebase Rules API | 18
+Cloud Storage for Firebase API | 13
+Cloud Firestore API | 16
+Fitness API | 31
+Google Play Game Services | 78
+Google Play Game Services Publishing API | 18
+Google Play Game Management | 74
+Game Services API | 22
+Genomics API | 17
+GKE Hub API | 38
+Gmail API | 212
+Gmail Postmaster Tools API | 7
+Groups Migration API | 3
+Groups Settings API | 4
+Cloud Healthcare API | 172
+HomeGraph API | 19
+Identity and Access Management (IAM) API | 8
+IAM Service Account Credentials API | 13
+Cloud Identity-Aware Proxy API | 15
+Idea Hub API | 5
+Identity Toolkit API | 70
+Indexing API | 7
+Cloud Talent Solution API | 38
+Knowledge Graph Search API | 3
+Cloud Natural Language API | 20
+Library Agent API | 13
+Enterprise License Manager API | 16
+Cloud Life Sciences API | 13
+Local Services API | 8
+Cloud Logging API | 77
+Managed Service for Microsoft Active Directory API | 73
+Manufacturer Center API | 13
+Cloud Memorystore for Memcached API | 30
+Dataproc Metastore API | 59
+Google Mirror | 29
+AI Platform Training & Prediction API | 74
+Cloud Monitoring API | 47
+Google My Business API | 85
+My Business Account Management API | 13
+My Business Lodging API | 6
+My Business Notifications API | 2
+My Business Place Actions API | 4
+Network Connectivity API | 32
+Network Management API | 29
+Network Security API | 63
+Network Services API | 48
+Notebooks API | 108
+Google OAuth2 API | 7
+On-Demand Scanning API | 18
+Organization Policy API | 17
+OS Config API | 39
+Cloud OS Login API | 12
+PageSpeed Insights API | 3
+Payments Reseller Subscription API | 21
+People API | 73
+Playable Locations API | 6
+Google Play Custom App Publishing API | 4
+Google+ API | 16
+Policy Analyzer API | 5
+Policy Simulator API | 3
+Policy Troubleshooter API | 6
+Poly API | 5
+Certificate Authority API | 23
+SAS Portal API (Testing) | 55
+Proximity Beacon API | 44
+Real-time Bidding API | 10
+reCAPTCHA Enterprise API | 32
+Recommendations AI (Beta) | 41
+Recommender API | 26
+Google Cloud Memorystore for Redis API | 33
+Remote Build Execution API | 14
+Replica Pool | 18
+Google Workspace Reseller API | 52
+Resource Settings API | 6
+Retail API | 126
+Cloud Run Admin API | 37
+Cloud Runtime Configuration API | 28
+Safe Browsing API | 16
+SAS Portal API | 55
+Apps Script API | 30
+Google Search Console API | 26
+Secret Manager API | 43
+Security Command Center API | 7
+Service Broker | 34
+Service Consumer Management API | 14
+Service Control API | 7
+Service Directory API | 32
+Service Management API | 47
+Service Networking API | 16
+Service Usage API | 37
+Google Sheets API | 59
+Google Site Verification API | 10
+Google Slides API | 14
+Smart Device Management API | 12
+Cloud Source Repositories API | 27
+Cloud Spanner API | 99
+Cloud Speech-to-Text API | 5
+Cloud SQL Admin API | 98
+Cloud Storage JSON API | 45
+Storage Transfer API | 30
+Street View Publish API | 37
+Security Token Service API | 2
+Tag Manager API | 134
+Tasks API | 26
+Cloud Testing API | 16
+Cloud Text-to-Speech API | 13
+Cloud Tool Results API | 57
+Cloud TPU API | 41
+Traffic Director API | 6
+Transcoder API | 10
+Cloud Translation API | 35
+Google Vault API | 66
+Semantic Tile API | 2
+Chrome Verified Access API | 7
+Cloud Video Intelligence API | 4
+Cloud Vision API | 25
+Web Fonts Developer API | 2
+Search Console API | 17
+Web Risk API | 18
+Web Security Scanner API | 22
+Workflow Executions API | 10
+Workflows API | 12
+YouTube Data API v3 | 171
+YouTube Analytics API | 1
+YouTube Reporting API | 15
+My Business Business Information API | 23
+My Business Verifications API | 13
+Connectors API | 30
+Authorized Buyers Marketplace API | 76
+versionhistory.googleapis.com API | 5
+Migrate to Virtual Machines API | 66
+Datastream API | 45
+Data pipelines API | 17
+Google Cloud Support API | 29
+Google Cloud Deploy API | 61
+My Business Q&A API | 10
+Cloud IDS API | 26
+Certificate Manager API | 31
+Google Play Integrity API | 5
+Cloud Dataplex API | 73
+My Business Business Calls API | 3
+Google Forms API | 22
+Google Play Developer Reporting API | 16
+Backup for GKE API | 41
+Analytics Hub API | 30
+Apigee Registry API | 60
+BeyondCorp API | 41
+Business Profile Performance API | 9
+Drive Labels API | 28
+Application Integration API | 79
+BC Data Catalogue API | 116
+BC Geographical Names Web Service - REST API | 49
+Geocoder REST API | 69
+GeoMark Web Service REST API | 46
+Groundwater Wells, Aquifers and Registry API | 72
+WorkBC Job Posting API | 3
+BC Gov News API Service 1.0 | 62
+DriveBC's Open511 API | 9
+BC Route Planner REST API | 85
+GraphHopper Directions API | 25
+Greenwire Public API | 1
+Discovery Market Research | 11
+HackathonWatch | 27
+Metadata | 94
+Profile | 21
+Stats | 151
+UGC | 23
+Handwrytten API | 54
+Healthcare | 34
+HERE Network Positioning API v2 | 5
+hetras Booking API Version 0 | 160
+hetras Hotel API Version 0 | 171
+Hetzner Cloud API | 212
+HHS Media Services API | 200
+Highways England API | 40
+shinobiapi | 118
+ATM Locator API | 14
+Branch Locator API | 16
+Product Finder API | 20
+httpbin.org | 211
+Custom Behavioral Events API | 3
+OAuthService | 7
+Custom Workflow Actions | 35
+Domains | 7
+Subscriptions | 13
+Visitor Identification | 5
+CRM cards | 12
+HubSpot Events API | 4
+Files | 40
+Marketing Events Extension | 33
+Webhooks API | 15
+Hubhopper Partner Integration API(s) - Production | 21
+Hydra Movies | 11
+Growth Services | 109
+eNanoMapper database | 43
+IoE² IoT API - to create end-user applications | 94
+IllumiDesk | 329
+import.io | 5
+Mailsquad | 8
+Infermedica API | 29
+Dados Abertos - API | 32
+Instagram API | 40
+Intel Product Catalogue Service | 19
+IBKR 3rd Party Web API | 90
+Interzoid Convert Currency Rate API | 7
+Interzoid Get Address Match Similarity Key API | 6
+Interzoid Get Area Code From Number API | 8
+Interzoid Get City Match Similarity Key API | 7
+Interzoid City Data Standardization API | 7
+Interzoid Get Company Name Match Similarity Key API | 7
+Interzoid Get Country Match Similarity Key API | 7
+Interzoid Country Data Standardization API | 7
+Interzoid Get Currency Rate API | 8
+Interzoid Get Email Information API | 8
+Interzoid Get Full Name Match Similarity Key API | 7
+Interzoid Get Full Name Parsed Match Similarity Key API | 7
+Interzoid Get Global Phone Number Information API | 8
+Interzoid Get Global Time API | 8
+Interzoid State Data Standardization API | 7
+Interzoid Get Weather City API | 8
+Interzoid Get Weather By Zip Code API | 8
+Interzoid Zip Code Detailed Info API | 7
+Interzoid Global Page Load Performance API | 7
+Interzoid Get Area Code API | 8
+IP2Location IP Geolocation | 3
+IP2Proxy Proxy Detection | 3
+IP2WHOIS Domain Lookup | 1
+ipTwist | 4
+iQualify Management API | 49
+ISBNdb API | 34
+API iSendPro | 13
+Entertainment Express API | 3
+IX-API | 392
+Zettle Product Library API | 74
+Jellyfin API | 1287
+JIRA 7.6.1 | 810
+Jirafe Events | 38
+Jokes One API | 14
+journy.io API docs | 17
+Jumpseller API | 219
+Just Eat UK | 206
+Keycloak Admin REST API | 1070
+KeyServ | 29
+koomalooma Partner API | 8
+LambdaTest Screenshots API Documentation | 5
+Deed API | 5
+LanguageTool API | 9
+LaunchDarkly REST API | 266
+Learnifier | 44
+LetMC Api V2, Basic (Tier 2) | 98
+agentOS Api V2, Customer Login Call Group | 40
+LetMC Api V2, Free (Tier 1) | 95
+LetMC Api V3, reporting | 12
+LGTM API specification | 45
+link.fish API | 18
+Reimbursements API | 8
+Listen API: Podcast Search & Directory API | 124
+LotaData | 5
+LH Partner API | 58
+LH Public API | 39
+Lumminary API | 43
+Lyft | 21
+Magento B2B | 549
+Tradeworks | 21
+Otoroshi Admin API | 382
+MailboxValidator Free Email Checker | 5
+MailboxValidator Disposable Email Checker | 5
+MailboxValidator Email Validation | 5
+Mailscript | 60
+Mandrill | 379
+GeoDB Cities API | 28
+MasterCard Bin Table Listing | 2
+Bill Payment Validator | 1
+API for the Settlement Currency Rate converter | 13
+Locations API | 9
+MATCH API | 17
+MasterCard ABU API | 6
+MDES Customer Service | 30
+Merchant Identifier API V2 | 2
+Payment Account Reference Inquiry API | 6
+Personalized Offers | 11
+rePower | 4
+Spending Pulse | 3
+Send Person to Merchant | 29
+Open Banking - Payments initiation service | 26
+Numbers API | 4
+M-Bus HTTPD API | 37
+Rat Genome Database REST API | 569
+Medcorder Nearby Doctor API | 1
+Car Configurator | 114
+Dealer | 15
+Remote Diagnostic Support | 12
+Vehicle Image | 27
+The Mercure protocol | 16
+Swagger2OpenAPI Converter | 4
+Meshery API. | 217
+Miataru | 12
+AutoSuggest Client | 5
+Computer Vision Client | 12
+Custom Image Search Client | 4
+Custom Search Client | 4
+Entity Search Client | 4
+Image Search Client | 9
+Local Search Client | 6
+News Search Client | 7
+Custom Vision Prediction Client | 31
+Spell Check Client | 5
+Custom Vision Training Client | 81
+Video Search Client | 9
+Visual Search Client | 5
+Web Search Client | 4
+Image Moderation | 4
+Mon-voyage-pas-cher.com Public API | 26
+Moon by Ai Weiwei & Olafur Eliasson | 10
+MotaWord API | 443
+Remote Settings | 31
+Mtaa API Documentation | 18
+Musixmatch API | 49
+nextAuth API | 149
+APOD | 5
+TechPort | 8
+Native Ads Publisher API | 7
+Advicent.FactFinderService | 717
+NaviPlan API | 350
+NBA Stats API | 452
+Account and Transaction API Specification - UK | 96
+Health Data Consent Manager | 77
+Gateway | 164
+Health ID Service | 390
+Health Repository Provider Specifications for HIP | 99
+Health Repository Provider Specifications for HIU | 109
+Neblio REST API Suite | 69
+NeoWs - (Near Earth Object Web Service) | 30
+NetBox API | 711
+Labs64 NetLicensing RESTful API Test Center | 227
+Account API | 9
+Nexmo Application API | 0
+Audit API | 0
+Conversation API | 0
+Nexmo Conversion API | 12
+Dispatch API | 1
+External Accounts API | 10
+Media API | 4
+Number Insight API | 6
+Pricing API | 12
+Redact API | 1
+Reports API | 3
+Subaccounts API | 9
+nFusion Solutions Market Data API v1 | 53
+NLPCloud | 23
+Noosh API application | 100
+Notion API - Public Beta | 14
+NOWPayments API | 28
+NPR Authorization Service | 6
+NPR Identity Service | 7
+NPR Listening Service | 11
+NPR Sponsorship Service | 3
+NPR Station Finder Service | 2
+High Performance Building Database | 9
+Transportation Laws and Incentives | 19
+Georg API | 3
+NSIDC Web Service Documentation Index | 11
+Ntropy Transaction API | 6
+Archive API | 5
+Article Search API | 5
+Community API | 18
+Geographic API | 4
+Most Popular API | 14
+Movie Reviews API | 10
+Semantic API | 7
+TimesTags API | 3
+Times Newswire API | 10
+Top Stories | 3
+Mobility API | 3
+Socio-demo API | 2
+obono RKSV API | 75
+ODWeather | 59
+Users (Okta API) | 64
+OMDb | 0
+OnSched API | 344
+OnSched API Utility | 5
+OpenALPR CarCheck API | 7
+OpenAPI space | 48
+OpenAQ | 53
+Open Data API | 5
+Swiss NextGen Banking API-Framework | 208
+OpenCage Geocoder | 4
+OpenChannel Market API | 226
+ODN API | 13
+opendatasoft | 85
+OpenFIGI API | 2
+OpenFinTech.io | 22
+OSDB REST API v1 | 16
+Open Policy Agent (OPA) REST API | 16
+Smartphone Test Farm | 16
+Open Targets Platform REST API | 72
+OpenTrials API | 23
+OpenUV - Global Real-Time UV Index Forecast API | 1
+groov View Public API | 34
+Orbit API | 58
+OrgHunter | 25
+Daymet Single Pixel Extraction Tool API | 18
+OSF APIv2 Documentation | 220
+PI Web API 2018 SP1 Swagger Spec | 336
+Owler | 89
+Oxford Dictionaries | 66
+paccurate.io | 4
+PandaScore REST API for All Videogames | 10
+Pandorabots AIaaS | 41
+papiNet API | 1
+Bills API | 37
+Commons Votes API | 13
+Erskine May API | 30
+Members API | 166
+Annunciator content API | 7
+House of Commons Oral and Written Questions API | 6
+UK Parliament Search Service | 1
+Written Questions Service API | 17
+PasswordUtility.Web | 1
+PatientView | 66
+Swagger API-REST for Patrowl Engines | 17
+PAYONE Link API | 8
+Paylocity API | 141
+GOV.UK Pay API | 24
+PDF Blocks API | 53
+PdfBroker.io API | 32
+PDF Generator API | 6
+Peel Tune-in API | 19
+Pendo Feedback API | 78
+Self Service Developer API | 5
+Authentication | 4
+Personnel Data | 6
+PhantAuth | 6
+Polling Places API | 3
+Pims | 11
+PocketSmith | 78
+Poemist API | 4
+Polygon | 31
+Portfolio Optimizer | 200
+Postmark Account-level API | 35
+Postmark API | 61
+PowerDNS Authoritative HTTP API | 52
+Doc Converter | 3
+OOXML Automation | 378
+TV API | 23
+Probely Developers | 229
+PTV Timetable API - Version 3 | 34
+Qualpay Payment Gateway API | 23
+Qualtrics API | 10
+Coronavirus API | 9
+Quicksold REST API | 5
+They Said So Quotes API | 49
+Random Lovecraft | 1
+Randommer API | 83
+DynamicDocs | 1
+Football Prediction API | 10
+IdealSpot GeoData | 9
+Language Identification (Prediction) | 4
+RAWG Video Games Database API | 10
+Request Baskets API | 53
+API Endpoints | 112
+Rebilly REST API | 89
+Redeal Analytics API | 3
+Catalog Inventory | 113
+Patchman-engine API | 140
+redirection.io | 254
+Refuge Restrooms API | 17
+Car Registration API | 4
+topupsapi | 3
+Background Removal API | 5
+RESTful4Up | 17
+Asynchronous Speech-To-Text API Documentation | 7
+reverb | 515
+Ritc | 93
+RiteKit API | 23
+CompanyAPI | 13
+Rotten Tomatoes | 148
+ChannelShipper & Royal Mail Public API | 37
+Runscope API | 47
+Sakari | 54
+Einstein Vision and Einstein Language | 120
+SchoolDigger API V1 | 9
+Scrape Website Email API | 18
+Seldon External API | 5
+SelectPdf HTML To PDF API | 6
+Semantria | 240
+Email Activity (beta) | 481
+setlist.fm API | 23
+SheerSEO API | 9
+rv API | 5
+vs API | 5
+shipstation | 1
+カラーミーショップアプリストア API | 55
+Shorten.REST API Documentation | 12
+Shotstack | 6
+SIGNL4 API | 157
+SimplyRETS | 3
+FORTNITE REST API | 17
+Slack Web API | 482
+Slicebox API | 169
+SlideRoom API V2 | 14
+smart-me | 87
+sms77.io API | 22
+Snyk API | 92
+Solar VPS | 79
+Sonar Trading | 17
+SoundCloud Public API Specification | 59
+SpectroCoin Merchant | 3
+Article Rewriter and Article Extractor API | 8
+Spinitron v2 API | 14
+CBB v3 Scores | 26
+CBB v3 Stats | 38
+CFB v3 Scores | 32
+CS:GO v3 Scores | 28
+CS:GO v3 Stats | 28
+Golf v2 | 25
+LoL v3 Projections | 6
+LoL v3 Scores | 28
+LoL v3 Stats | 35
+MLB v3 Play-by-Play | 6
+MLB v3 Projections | 13
+MLB v3 RotoBaller Articles | 8
+MLB v3 RotoBaller Premium News | 8
+MLB v3 Scores | 28
+MLB v3 Stats | 46
+NASCAR v2 | 10
+NBA v3 Play-by-Play | 6
+NBA v3 Projections | 16
+NBA v3 RotoBaller Articles | 8
+NBA v3 RotoBaller Premium News | 8
+NBA v3 Scores | 34
+NBA v3 Stats | 43
+NFL v3 Play-by-Play | 6
+NFL v3 Projections | 21
+NFL v3 RotoBaller Articles | 8
+NFL v3 RotoBaller Premium News | 9
+NFL v3 Scores | 55
+NFL v3 Stats | 102
+NHL v3 Play-by-Play | 6
+NHL v3 Projections | 11
+NHL v3 Scores | 29
+NHL v3 Stats | 41
+Soccer v3 Projections | 11
+Soccer v3 Scores | 37
+Soccer v3 Stats | 49
+Square Connect API | 455
+StackExchange | 1376
+api.ecota.co v2 | 43
+Stoplight | 8
+Storecove API | 134
+Storm Glass Marine Weather | 5
+Superset | 830
+City of Surrey Open511 API | 9
+City of Surrey Traffic Loop Count API. | 8
+Psycholinguistic Text Analytics | 10
+SYNQ Video | 11
+Tafqit | 1
+Taxamo | 130
+Taxrates.io API | 7
+Telegram Bot API | 66
+Quick start - Telematics SDK | 21
+Telnyx API | 1027
+AltoroJ REST API | 53
+Transport for London Unified API | 123
+The Noun Project | 30
+TheTVDB API v3 | 18
+Commerce API | 5
+Discovery API | 54
+ticketmaster publish api | 22
+TinyUID.com | 1
+Tisane API Documentation | 5
+API | 73
+Maps | 88
+Routing | 59
+Search | 194
+Tradematic Cloud API | 106
+Airports API v2 | 10
+TransitFeeds API | 5
+TrapStreet API | 2
+Trello | 1182
+TruAnon Private API | 13
+Hardware Sentry TrueSight Presentation Server REST API | 91
+Checks API | 43
+TSAPI | 8
+Turbine Labs API | 65
+TVmaze user API | 128
+Twilio - Fax | 10
+Twitter API | 469
+Gateway REST API | 33
+uebermaps API endpoints | 15
+Up API | 23
+Bulk Data Storage System Services | 32
+Benefits Intake | 10
+Veteran Confirmation | 4
+VA Facilities | 3
+VA Forms | 2
+VAT API | 27
+Vestorly API | 78
+VictorOps | 429
+Vimeo | 493
+VisageCloud | 246
+VisibleThread API | 36
+VSOnline | 518
+vRealize Network Insight API Reference | 701
+Extension API | 5
+User API | 5
+Vonage Integration Suite | 110
+Voodoo Manufacturing 3D Print API | 23
+Google Pay Passes API | 169
+Inventory Management | 16
+Item API | 16
+Orders API | 30
+Price Management | 11
+watchful.li | 150
+The Water Linked Underwater GPS API | 73
+Weatherbit.io - Swagger UI Weather API documentation | 96
+WeGA API | 4
+Accounts API | 9
+Bets API | 7
+Locations | 11
+Sessions API | 2
+SportsData API | 14
+WhatsApp Business API | 108
+Where to Credit API | 11
+Who Hosts This API | 9
+Wikimedia | 54
+WikiPathways Webservices | 77
+GraphRbacManagementClient | 124
+WINSMS | 18
+Real-Time Bus Predictions | 4
+Bus Route and Stop Methods | 20
+Incidents | 13
+Real-Time Rail Predictions | 7
+Rail Station Information | 25
+Word Associations API | 9
+Wordnik | 51
+World Time API | 9
+Wowza Streaming Cloud REST API Reference Documentation | 125
+Transform | 7
+Xero OAuth 2 Identity Service API | 5
+Xero Payroll AU API | 64
+Xero Accounting API | 465
+Xero Assets API | 15
+Xero Bank Feeds API | 22
+Xero Files API | 25
+XKCD | 6
+Yodlee Core APIs | 323
+YNAB API Endpoints | 41
+Zalando Shop | 8
+Zappiti Player API | 13
+ZEIT API | 13
+Zenoti API | 2
+www.zoomconnect.com | 288
+---------------------------------------------------
+failed to read following OpenAPI definitions
+title | url | print trace 
+AmplifyBackend | https://api.apis.guru/v2/specs/amazonaws.com/amplifybackend/2020-08-11/openapi.json
+ | b'Tem 05, 2025 4:05:52 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 4:05:52 \xd6S cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 05, 2025 4:05:52 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 05, 2025 4:05:52 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 05, 2025 4:05:52 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 05, 2025 4:05:52 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 05, 2025 4:05:52 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3509)\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.Utility.split(Utility.java:204)\r\n\tat cli.rule.Utility.splitContiguousWords(Utility.java:163)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolationsFromPathSegments(VerbPhraseRule.java:139)\r\n\tat cli.rule.rules.VerbPhraseRule.lambda$getLstViolations$0(VerbPhraseRule.java:112)\r\n\tat cli.rule.rules.VerbPhraseRule$$Lambda/0x0000014b5a394000.accept(Unknown Source)\r\n\tat java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolations(VerbPhraseRule.java:101)\r\n\tat cli.rule.rules.VerbPhraseRule.checkViolation(VerbPhraseRule.java:89)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+Amazon Macie 2 | https://api.apis.guru/v2/specs/amazonaws.com/macie2/2020-01-01/openapi.json
+ | b'Tem 05, 2025 7:10:50 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 7:10:50 \xd6S cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 05, 2025 7:10:50 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 05, 2025 7:10:50 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 05, 2025 7:10:50 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 05, 2025 7:10:50 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 05, 2025 7:10:50 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.Utility.split(Utility.java:204)\r\n\tat cli.rule.Utility.splitContiguousWords(Utility.java:163)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolationsFromPathSegments(VerbPhraseRule.java:139)\r\n\tat cli.rule.rules.VerbPhraseRule.lambda$getLstViolations$0(VerbPhraseRule.java:112)\r\n\tat cli.rule.rules.VerbPhraseRule$$Lambda/0x0000020faf3946a0.accept(Unknown Source)\r\n\tat java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolations(VerbPhraseRule.java:101)\r\n\tat cli.rule.rules.VerbPhraseRule.checkViolation(VerbPhraseRule.java:89)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+Amazon QLDB | https://api.apis.guru/v2/specs/amazonaws.com/qldb/2019-01-02/openapi.json
+ | b'Tem 05, 2025 8:13:03 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 05, 2025 8:13:03 \xd6S cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 05, 2025 8:13:03 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 05, 2025 8:13:04 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 05, 2025 8:13:04 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 05, 2025 8:13:04 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 05, 2025 8:13:04 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3509)\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.Utility.split(Utility.java:204)\r\n\tat cli.rule.Utility.splitContiguousWords(Utility.java:163)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolationsFromPathSegments(VerbPhraseRule.java:139)\r\n\tat cli.rule.rules.VerbPhraseRule.lambda$getLstViolations$0(VerbPhraseRule.java:112)\r\n\tat cli.rule.rules.VerbPhraseRule$$Lambda/0x0000022501396448.accept(Unknown Source)\r\n\tat java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolations(VerbPhraseRule.java:101)\r\n\tat cli.rule.rules.VerbPhraseRule.checkViolation(VerbPhraseRule.java:89)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+U.S. EPA Enforcement and Compliance History Online (ECHO) - Detailed Facility Report (DFR) | https://api.apis.guru/v2/specs/epa.gov/dfr/0.0.0/swagger.json
+ | b'Tem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 06, 2025 7:06:33 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.Utility.split(Utility.java:204)\r\n\tat cli.rule.Utility.splitContiguousWords(Utility.java:163)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolationsFromPathSegments(VerbPhraseRule.java:139)\r\n\tat cli.rule.rules.VerbPhraseRule.lambda$getLstViolations$0(VerbPhraseRule.java:112)\r\n\tat cli.rule.rules.VerbPhraseRule$$Lambda/0x00000197c43d5000.accept(Unknown Source)\r\n\tat java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolations(VerbPhraseRule.java:101)\r\n\tat cli.rule.rules.VerbPhraseRule.checkViolation(VerbPhraseRule.java:89)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+Geneea Natural Language Processing | https://api.apis.guru/v2/specs/geneea.com/1.0/swagger.json
+ | b'Tem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 06, 2025 8:09:47 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nTem 06, 2025 8:09:49 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 6 of 19 is now checked:\r\nFile extensions should not be included in URIs\r\nTem 06, 2025 8:09:50 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 7 of 19 is now checked:\r\nGET and POST must not be used to tunnel other request methods\r\nTem 06, 2025 8:09:50 \xd6\xd6 cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 8 of 19 is now checked:\r\nCamelCase should be used for multi-word URI segments\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.rules.CamelCaseRule.split(CamelCaseRule.java:228)\r\n\tat cli.rule.rules.CamelCaseRule.splitContiguousWords(CamelCaseRule.java:202)\r\n\tat cli.rule.rules.CamelCaseRule.getLstViolationsFromPathSegments(CamelCaseRule.java:139)\r\n\tat cli.rule.rules.CamelCaseRule.getLstViolations(CamelCaseRule.java:94)\r\n\tat cli.rule.rules.CamelCaseRule.checkViolation(CamelCaseRule.java:79)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+PAC Control REST API | https://api.apis.guru/v2/specs/opto22.com/pac/R1.0a/swagger.json
+ | b'Tem 06, 2025 2:35:43 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 2:35:43 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 2:35:43 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 2:35:44 \xd6S cli.utility.Config getConfig\r\nINFO: Error when trying to read the config file: src\\main\\resources\\config.properties (The system cannot find the path specified)\r\nTem 06, 2025 2:35:44 \xd6S cli.utility.Config createConfigFile\r\nINFO: Config file cannot be found. New file is created.\r\nTem 06, 2025 2:35:44 \xd6S cli.utility.Config createConfigFile\r\nINFO: Cannot create config file: The system cannot find the path specified\r\nTem 06, 2025 2:35:44 \xd6S cli.utility.Config addToConfig\r\nSEVERE: Properties not found!\r\nTem 06, 2025 2:35:44 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 1 of 19 is now checked:\r\nCRUD function names should not be used in URIs\r\nTem 06, 2025 2:35:44 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 2 of 19 is now checked:\r\nGET must be used to retrieve a representation of a resource\r\nTem 06, 2025 2:35:44 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 3 of 19 is now checked:\r\nForward slash separator (/) must be used to indicate a hierarchical relationship\r\nTem 06, 2025 2:35:44 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 4 of 19 is now checked:\r\nMust use official HTTP status codes\r\nTem 06, 2025 2:35:44 \xd6S cli.analyzer.RestAnalyzer runRuleViolationChecks\r\nINFO: Rule 5 of 19 is now checked:\r\nA verb or verb phrase should be used for controller names\r\nException in thread "main" java.lang.OutOfMemoryError: Java heap space\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3509)\r\n\tat java.base/java.util.Arrays.copyOf(Arrays.java:3478)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:238)\r\n\tat java.base/java.util.ArrayList.grow(ArrayList.java:245)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:484)\r\n\tat java.base/java.util.ArrayList.add(ArrayList.java:497)\r\n\tat cli.rule.Utility.split(Utility.java:204)\r\n\tat cli.rule.Utility.splitContiguousWords(Utility.java:163)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolationsFromPathSegments(VerbPhraseRule.java:139)\r\n\tat cli.rule.rules.VerbPhraseRule.lambda$getLstViolations$0(VerbPhraseRule.java:112)\r\n\tat cli.rule.rules.VerbPhraseRule$$Lambda/0x000001d9423c0b50.accept(Unknown Source)\r\n\tat java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987)\r\n\tat cli.rule.rules.VerbPhraseRule.getLstViolations(VerbPhraseRule.java:101)\r\n\tat cli.rule.rules.VerbPhraseRule.checkViolation(VerbPhraseRule.java:89)\r\n\tat cli.analyzer.RestAnalyzer.runRuleViolationChecks(RestAnalyzer.java:85)\r\n\tat cli.analyzer.RestAnalyzer.runAnalyse(RestAnalyzer.java:63)\r\n\tat cli.utility.Output.startAnalysis(Output.java:218)\r\n\tat cli.RestRulerCli.run(RestRulerCli.java:55)\r\n\tat picocli.CommandLine.executeUserObject(CommandLine.java:2030)\r\n\tat picocli.CommandLine.access$1500(CommandLine.java:148)\r\n\tat picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2465)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2457)\r\n\tat picocli.CommandLine$RunLast.handle(CommandLine.java:2419)\r\n\tat picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2277)\r\n\tat picocli.CommandLine$RunLast.execute(CommandLine.java:2421)\r\n\tat picocli.CommandLine.execute(CommandLine.java:2174)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:146)\r\n\tat io.micronaut.configuration.picocli.PicocliRunner.run(PicocliRunner.java:123)\r\n\tat cli.RestRulerCli.main(RestRulerCli.java:36)\r\n'
+---------------------------------------------------
+total APIs failed to read: 6
+---------------------------------------------------
+total APIs skipped because of file size: 38
+---------------------------------------------------
+total Violations found: 182608

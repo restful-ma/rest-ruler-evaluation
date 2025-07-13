@@ -1,0 +1,760 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+        "title": "Recipe API",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/recipes": {
+            "get": {
+                "tags": [
+                    "recipes"
+                ],
+                "summary": "Get Recipes",
+                "description": "Get all recipes",
+                "operationId": "get_recipes_recipes_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "items": {
+                                        "$ref": "#/components/schemas/Recipe"
+                                    },
+                                    "type": "array",
+                                    "title": "Response Get Recipes Recipes Get"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "recipes"
+                ],
+                "summary": "Create Recipe",
+                "description": "Create a new recipe (follows all rules)",
+                "operationId": "create_recipe_recipes_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/RecipeCreate"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "201": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes/{recipe_id}": {
+            "get": {
+                "tags": [
+                    "recipes"
+                ],
+                "summary": "Get Recipe",
+                "description": "Get a specific recipe by ID",
+                "operationId": "get_recipe_recipes__recipe_id__get",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "put": {
+                "tags": [
+                    "recipes"
+                ],
+                "summary": "Update Recipe",
+                "description": "Update an existing recipe (follows all rules)",
+                "operationId": "update_recipe_recipes__recipe_id__put",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/RecipeUpdate"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "tags": [
+                    "recipes"
+                ],
+                "summary": "Delete Recipe",
+                "description": "Delete a recipe (follows all rules)",
+                "operationId": "delete_recipe_recipes__recipe_id__delete",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "204": {
+                        "description": "Successful Response"
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes/{recipe_id}/": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Recipe Trailing Slash",
+                "description": "Get recipe with trailing slash in path (VIOLATION: rule 136)",
+                "operationId": "get_recipe_trailing_slash_recipes__recipe_id___get",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes//{recipe_id}": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Recipe Empty Segment",
+                "description": "Get recipe with empty path segment (VIOLATION: rule 136)",
+                "operationId": "get_recipe_empty_segment_recipes___recipe_id__get",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes/special": {
+            "post": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Create Special Recipe",
+                "description": "Create recipe with non-standard status code (VIOLATION: rule 243)",
+                "operationId": "create_special_recipe_recipes_special_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/RecipeCreate"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "299": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes/{recipe_id}/force": {
+            "delete": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Force Delete Recipe",
+                "description": "Delete recipe with non-standard status code (VIOLATION: rule 243)",
+                "operationId": "force_delete_recipe_recipes__recipe_id__force_delete",
+                "parameters": [
+                    {
+                        "name": "recipe_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipe Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "210": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "444": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipesBy/categoryName/{category}": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Recipes By Category Camel Case",
+                "description": "Get recipes by category with camelCase in path (VIOLATION: URI convention)",
+                "operationId": "get_recipes_by_category_camel_case_recipesBy_categoryName__category__get",
+                "parameters": [
+                    {
+                        "name": "category",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/components/schemas/RecipeCategory"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/Recipe"
+                                    },
+                                    "title": "Response Get Recipes By Category Camel Case Recipesby Categoryname  Category  Get"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipe-updates/{recipeId}/updateNow": {
+            "put": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Update Recipe Mixed Case",
+                "description": "Update recipe with mixed case conventions (VIOLATION: URI convention)",
+                "operationId": "update_recipe_mixed_case_recipe_updates__recipeId__updateNow_put",
+                "parameters": [
+                    {
+                        "name": "recipeId",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Recipeid"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/RecipeUpdate"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Recipe"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/recipes/search//": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Search Recipes Multiple Trailing",
+                "description": "Search recipes with multiple trailing slashes (VIOLATION: rule 136)",
+                "operationId": "search_recipes_multiple_trailing_recipes_search___get",
+                "parameters": [
+                    {
+                        "name": "keyword",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "title": "Keyword"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/Recipe"
+                                    },
+                                    "title": "Response Search Recipes Multiple Trailing Recipes Search   Get"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/health": {
+            "get": {
+                "tags": [
+                    "system"
+                ],
+                "summary": "Health Check",
+                "description": "Health check endpoint",
+                "operationId": "health_check_health_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "HTTPValidationError": {
+                "properties": {
+                    "detail": {
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        },
+                        "type": "array",
+                        "title": "Detail"
+                    }
+                },
+                "type": "object",
+                "title": "HTTPValidationError"
+            },
+            "Recipe": {
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "title": "Name",
+                        "description": "Name of the recipe"
+                    },
+                    "description": {
+                        "type": "string",
+                        "title": "Description",
+                        "description": "Description of the recipe"
+                    },
+                    "category": {
+                        "$ref": "#/components/schemas/RecipeCategory",
+                        "description": "Category of the recipe"
+                    },
+                    "prep_time_minutes": {
+                        "type": "integer",
+                        "minimum": 0.0,
+                        "title": "Prep Time Minutes",
+                        "description": "Preparation time in minutes"
+                    },
+                    "ingredients": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array",
+                        "minItems": 1,
+                        "title": "Ingredients",
+                        "description": "List of ingredients"
+                    },
+                    "id": {
+                        "type": "integer",
+                        "title": "Id",
+                        "description": "Unique identifier of the recipe"
+                    },
+                    "created_at": {
+                        "type": "string",
+                        "format": "date-time",
+                        "title": "Created At",
+                        "description": "Timestamp when recipe was created"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "name",
+                    "description",
+                    "category",
+                    "prep_time_minutes",
+                    "ingredients",
+                    "id",
+                    "created_at"
+                ],
+                "title": "Recipe"
+            },
+            "RecipeCategory": {
+                "type": "string",
+                "enum": [
+                    "appetizer",
+                    "main_course",
+                    "dessert",
+                    "beverage"
+                ],
+                "title": "RecipeCategory"
+            },
+            "RecipeCreate": {
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "title": "Name",
+                        "description": "Name of the recipe"
+                    },
+                    "description": {
+                        "type": "string",
+                        "title": "Description",
+                        "description": "Description of the recipe"
+                    },
+                    "category": {
+                        "$ref": "#/components/schemas/RecipeCategory",
+                        "description": "Category of the recipe"
+                    },
+                    "prep_time_minutes": {
+                        "type": "integer",
+                        "minimum": 0.0,
+                        "title": "Prep Time Minutes",
+                        "description": "Preparation time in minutes"
+                    },
+                    "ingredients": {
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": "array",
+                        "minItems": 1,
+                        "title": "Ingredients",
+                        "description": "List of ingredients"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "name",
+                    "description",
+                    "category",
+                    "prep_time_minutes",
+                    "ingredients"
+                ],
+                "title": "RecipeCreate"
+            },
+            "RecipeUpdate": {
+                "properties": {
+                    "name": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Name"
+                    },
+                    "description": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Description"
+                    },
+                    "category": {
+                        "anyOf": [
+                            {
+                                "$ref": "#/components/schemas/RecipeCategory"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ]
+                    },
+                    "prep_time_minutes": {
+                        "anyOf": [
+                            {
+                                "type": "integer",
+                                "minimum": 0.0
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Prep Time Minutes"
+                    },
+                    "ingredients": {
+                        "anyOf": [
+                            {
+                                "items": {
+                                    "type": "string"
+                                },
+                                "type": "array",
+                                "minItems": 1
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Ingredients"
+                    }
+                },
+                "type": "object",
+                "title": "RecipeUpdate"
+            },
+            "ValidationError": {
+                "properties": {
+                    "loc": {
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        },
+                        "type": "array",
+                        "title": "Location"
+                    },
+                    "msg": {
+                        "type": "string",
+                        "title": "Message"
+                    },
+                    "type": {
+                        "type": "string",
+                        "title": "Error Type"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "title": "ValidationError"
+            }
+        }
+    }
+}

@@ -1,7 +1,7 @@
 import os
 
 # directory in which all report files are located
-work_dir = ''
+work_dir = 'out/'
 
 
 # counts the appearances of each unique rule
@@ -93,40 +93,40 @@ for file_name in os.listdir(work_dir):
 
 # output handling: creating a directory 'stats' with 5 output files
 
-if not os.path.exists('stats'):
-    os.mkdir('stats')
+if not os.path.exists('statsv2'):
+    os.mkdir('statsv2')
 
 print('writing rules to file')
 # write rule appearances
-with open('stats/rule_output.csv', "w", encoding="utf8") as output_file:
+with open('statsv2/rule_output.csv', "w", encoding="utf8") as output_file:
     output_file.write('rule;appearances' + '\n')
     for rule, count in rule_count.items():
         output_file.write(rule + ';' + str(count) + '\n')
 
 print('writing severities to file')
 # write severity statistic
-with open('stats/severity_output.csv', "w", encoding="utf8") as output_file:
+with open('statsv2/severity_output.csv', "w", encoding="utf8") as output_file:
     output_file.write('severity;appearances' + '\n')
     for severity, count in severity_type_count.items():
         output_file.write(severity + ';' + str(count) + '\n')
 
 print('writing software quality attributes to file')
 # write software attribute appearances
-with open('stats/attributes_output.csv', "w", encoding="utf8") as output_file:
+with open('statsv2/attributes_output.csv', "w", encoding="utf8") as output_file:
     output_file.write('attributes;appearances' + '\n')
     for attr, count in attributes_count.items():
         output_file.write(attr + ';' + str(count) + '\n')
 
 print('writing violations to file')
 # write number of violations per file
-with open('stats/violation_output.csv', "w", encoding="utf8") as output_file:
+with open('statsv2/violation_output.csv', "w", encoding="utf8") as output_file:
     output_file.write('filename;violations' + '\n')
     for filename, count in file_statistics.items():
         output_file.write(filename + ';' + str(count) + '\n')
 
     output_file.write('total violations;' + str(total_violations))
 
-with open('stats/violation_collection_output.csv', "w", encoding="utf8") as output_file:
+with open('statsv2/violation_collection_output.csv', "w", encoding="utf8") as output_file:
     output_file.write('File name;Line No.;Line;Rule Violated;Category;Severity;Rule Type;Software Quality Attributes;Improvement Suggestion' + '\n')
     for entry in collection:
         output_file.write(entry + '\n')

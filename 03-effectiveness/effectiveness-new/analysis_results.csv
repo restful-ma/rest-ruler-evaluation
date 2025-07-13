@@ -1,0 +1,465 @@
+api_name,api_url,violation_line,violation_path
+1Forge Finance APIs,https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json,38,/quotes
+1Forge Finance APIs,https://api.apis.guru/v2/specs/1forge.com/0.0.1/swagger.json,38,/quotes
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,0,info.contact
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,42,/api/auth/introspect
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,42,/api/auth/introspect
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,67,/api/v1/itemusages
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,67,/api/v1/itemusages
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,67,/api/v1/itemusages
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,96,/api/v1/signinattempts
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,96,/api/v1/signinattempts
+Events API,https://api.apis.guru/v2/specs/1password.com/events/1.0.0/openapi.json,96,/api/v1/signinattempts
+1Password Connect,https://api.apis.guru/v2/specs/1password.local/connect/1.3.0/openapi.json,,
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,39,/key
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,175,/key/{PK}
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,175,/key/{PK}
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,576,/scope/{job}
+Authentiq API,https://api.apis.guru/v2/specs/6-dot-authentiqio.appspot.com/6/openapi.json,576,/scope/{job}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,147,/channels/{channel_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,190,/channels/{channel_id}/messages
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,361,/channels/{channel_id}/presence
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,361,/channels/{channel_id}/presence
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,445,/channels/{channel_id}/presence/history
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,445,/channels/{channel_id}/presence/history
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,445,/channels/{channel_id}/presence/history
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,516,/keys/{keyName}/requestToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,516,/keys/{keyName}/requestToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,588,/push/channelSubscriptions
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,827,/channels
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,827,/channels
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,827,/push/channels
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,827,/push/channels
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,879,/push/deviceRegistrations
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1031,/push/deviceRegistrations/{device_id}
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1214,/push/deviceRegistrations/{device_id}/resetUpdateToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1214,/push/deviceRegistrations/{device_id}/resetUpdateToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1214,/push/deviceRegistrations/{device_id}/resetUpdateToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1214,/push/deviceRegistrations/{device_id}/resetUpdateToken
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1262,/push/publish
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1262,/push/publish
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1262,/push/publish
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1340,/stats
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1340,/stats
+Platform API,https://api.apis.guru/v2/specs/ably.io/platform/1.1.0/openapi.json,1402,/time
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,0,info.contact.email
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,0,info.contact.name
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,0,info.contact.url
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,485,/apps/{app_id}/keys/{key_id}/revoke
+Control API v1,https://api.apis.guru/v2/specs/ably.net/control/1.0.14/openapi.json,1812,/apps/{id}/pkcs12
+IP geolocation API,https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json,0,info.contact
+IP geolocation API,https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json,33,/v1/
+IP geolocation API,https://api.apis.guru/v2/specs/abstractapi.com/geolocation/1.0.0/openapi.json,33,/v1/
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,0,info.contact
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,446,/user
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,446,/user
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,446,/user
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,446,/user
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,478,/webhooks/feed/:token
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,537,/webhooks/feed/:token/raw
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,580,/{username}/activities
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,679,/{username}/activities/{type}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,679,/{username}/activities/{type}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,679,/{username}/activities/{type}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,679,/{username}/activities/{type}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,731,/{username}/dashboards
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,813,/{username}/dashboards/{dashboard_id}/blocks
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,901,/{username}/dashboards/{dashboard_id}/blocks/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1081,/{username}/dashboards/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1249,/{username}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1334,/{username}/feeds/{feed_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1499,/{username}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1627,/{username}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1627,/{username}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1627,/{username}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1627,/{username}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1676,/{username}/feeds/{feed_key}/data/chart
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1676,/{username}/feeds/{feed_key}/data/chart
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1676,/{username}/feeds/{feed_key}/data/chart
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1676,/{username}/feeds/{feed_key}/data/chart
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1773,/{username}/feeds/{feed_key}/data/first
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1773,/{username}/feeds/{feed_key}/data/first
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1773,/{username}/feeds/{feed_key}/data/first
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1773,/{username}/feeds/{feed_key}/data/first
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1773,/{username}/feeds/{feed_key}/data/first
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1820,/{username}/feeds/{feed_key}/data/last
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1820,/{username}/feeds/{feed_key}/data/last
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1820,/{username}/feeds/{feed_key}/data/last
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1820,/{username}/feeds/{feed_key}/data/last
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1820,/{username}/feeds/{feed_key}/data/last
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1867,/{username}/feeds/{feed_key}/data/next
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1867,/{username}/feeds/{feed_key}/data/next
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1867,/{username}/feeds/{feed_key}/data/next
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1867,/{username}/feeds/{feed_key}/data/next
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1867,/{username}/feeds/{feed_key}/data/next
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1914,/{username}/feeds/{feed_key}/data/previous
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1914,/{username}/feeds/{feed_key}/data/previous
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1914,/{username}/feeds/{feed_key}/data/previous
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1914,/{username}/feeds/{feed_key}/data/previous
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1914,/{username}/feeds/{feed_key}/data/previous
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1961,/{username}/feeds/{feed_key}/data/retain
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1961,/{username}/feeds/{feed_key}/data/retain
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1961,/{username}/feeds/{feed_key}/data/retain
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1961,/{username}/feeds/{feed_key}/data/retain
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,1961,/{username}/feeds/{feed_key}/data/retain
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2008,/{username}/feeds/{feed_key}/data/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2191,/{username}/feeds/{feed_key}/details
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2191,/{username}/feeds/{feed_key}/details
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2191,/{username}/feeds/{feed_key}/details
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2191,/{username}/feeds/{feed_key}/details
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2231,/{username}/groups
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2313,/{username}/groups/{group_key}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2480,/{username}/groups/{group_key}/add
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2524,/{username}/groups/{group_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2524,/{username}/groups/{group_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2524,/{username}/groups/{group_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2524,/{username}/groups/{group_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2573,/{username}/groups/{group_key}/feeds
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2662,/{username}/groups/{group_key}/feeds/{feed_key}/data
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2775,/{username}/groups/{group_key}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2775,/{username}/groups/{group_key}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2775,/{username}/groups/{group_key}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2775,/{username}/groups/{group_key}/feeds/{feed_key}/data/batch
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2827,/{username}/groups/{group_key}/remove
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2871,/{username}/throttle
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2917,/{username}/tokens
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,2999,/{username}/tokens/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3167,/{username}/triggers
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3249,/{username}/triggers/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3417,/{username}/{type}/{type_id}/acl
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adafruit IO REST API,https://api.apis.guru/v2/specs/adafruit.com/2.0.0/swagger.json,3511,/{username}/{type}/{type_id}/acl/{id}
+Adobe Experience Manager (AEM) API,https://api.apis.guru/v2/specs/adobe.com/aem/3.5.0-pre.0/openapi.json,,
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,505,/createAccount
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,622,/createAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,732,/deleteBankAccounts
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,732,/deleteBankAccounts
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,732,/deleteBankAccounts
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,849,/deleteLegalArrangements
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,849,/deleteLegalArrangements
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,849,/deleteLegalArrangements
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,983,/deletePayoutMethods
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,983,/deletePayoutMethods
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,983,/deletePayoutMethods
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1101,/deleteShareholders
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1101,/deleteShareholders
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1101,/deleteShareholders
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1218,/deleteSignatories
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1218,/deleteSignatories
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1218,/deleteSignatories
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1330,/getAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1330,/getAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1330,/getAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1450,/getTaxForm
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1450,/getTaxForm
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1450,/getTaxForm
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1557,/getUploadedDocuments
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1898,/updateAccount
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,1898,/updateAccount
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2015,/updateAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2015,/updateAccountHolder
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2141,/updateAccountHolderState
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2141,/updateAccountHolderState
+Adyen for Platforms: Account API,https://api.apis.guru/v2/specs/adyen.com/AccountService/6/openapi.json,2258,/uploadDocument
+Issuing: Balance Platform API,https://api.apis.guru/v2/specs/adyen.com/BalancePlatformService/1/openapi.json,,
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,44,/get3dsAvailability
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,44,/get3dsAvailability
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,152,/getCostEstimate
+Adyen BinLookup API,https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json,152,/getCostEstimate
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,59,/applePay/sessions
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,268,/cardDetails
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,268,/cardDetails
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,623,/orders/cancel
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,1326,/paymentMethods
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,1480,/paymentMethods/balance
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,1995,/payments/details
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,2274,/payments/{paymentPspReference}/amountUpdates
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,2274,/payments/{paymentPspReference}/amountUpdates
+Adyen Checkout API,https://api.apis.guru/v2/specs/adyen.com/CheckoutService/68/openapi.json,3054,/sessions
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,40,/originKeys
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,40,/originKeys
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,40,/originKeys
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,40,/originKeys
+Adyen Checkout Utility Service,https://api.apis.guru/v2/specs/adyen.com/CheckoutUtilityService/1/openapi.json,40,/originKeys
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,44,/accountHolderBalance
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,151,/accountHolderTransactionList
+Adyen for Platforms: Fund API,https://api.apis.guru/v2/specs/adyen.com/FundService/6/openapi.json,587,/refundNotPaidOutTransfers
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,47,/getOnboardingUrl
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,47,/getOnboardingUrl
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,149,/getPciQuestionnaireUrl
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,149,/getPciQuestionnaireUrl
+Adyen for Platforms: Hosted Onboarding,https://api.apis.guru/v2/specs/adyen.com/HopService/6/openapi.json,149,/getPciQuestionnaireUrl
+Adyen for Platforms: Notifications,https://api.apis.guru/v2/specs/adyen.com/MarketPayNotificationService/6/openapi.json,,
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,44,/createNotificationConfiguration
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,146,/deleteNotificationConfigurations
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,146,/deleteNotificationConfigurations
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,146,/deleteNotificationConfigurations
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,248,/getNotificationConfiguration
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,248,/getNotificationConfiguration
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,350,/getNotificationConfigurationList
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,350,/getNotificationConfigurationList
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,350,/getNotificationConfigurationList
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,554,/updateNotificationConfiguration
+Adyen for Platforms: Notification Configuration API,https://api.apis.guru/v2/specs/adyen.com/NotificationConfigurationService/6/openapi.json,554,/updateNotificationConfiguration
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,295,/authorise3d
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,407,/authorise3ds2
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,979,/getAuthenticationResult
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,979,/getAuthenticationResult
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,979,/getAuthenticationResult
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,1209,/retrieve3ds2Result
+Adyen Payment API,https://api.apis.guru/v2/specs/adyen.com/PaymentService/68/openapi.json,1209,/retrieve3ds2Result
+Adyen Payout API,https://api.apis.guru/v2/specs/adyen.com/PayoutService/68/openapi.json,266,/payout
+Adyen Payout API,https://api.apis.guru/v2/specs/adyen.com/PayoutService/68/openapi.json,372,/storeDetail
+Adyen Payout API,https://api.apis.guru/v2/specs/adyen.com/PayoutService/68/openapi.json,479,/storeDetailAndSubmitThirdParty

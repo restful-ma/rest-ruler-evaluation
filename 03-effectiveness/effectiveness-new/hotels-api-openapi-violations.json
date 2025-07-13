@@ -1,0 +1,815 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+        "title": "Hotel Booking API",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/health": {
+            "get": {
+                "summary": "Health Check",
+                "operationId": "health_check_health_get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/hotels": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Hotels",
+                "description": "Get all hotels - returns status 218 (non-standard)",
+                "operationId": "get_hotels_hotels_get",
+                "responses": {
+                    "218": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "items": {
+                                        "$ref": "#/components/schemas/Hotel"
+                                    },
+                                    "type": "array",
+                                    "title": "Response Get Hotels Hotels Get"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Create Hotel",
+                "description": "Create a new hotel - returns status 418 (I'm a teapot)",
+                "operationId": "create_hotel_hotels_post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/HotelCreate"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "418": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Hotel"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/hotels/{hotel_id}/": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Hotel With Trailing Slash",
+                "description": "Get hotel by ID - path has trailing slash",
+                "operationId": "get_hotel_with_trailing_slash_hotels__hotel_id___get",
+                "parameters": [
+                    {
+                        "name": "hotel_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Hotel Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Hotel"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/hotels//{hotel_id}/rooms": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Hotel Rooms",
+                "description": "Get rooms for a hotel - path has empty segment",
+                "operationId": "get_hotel_rooms_hotels___hotel_id__rooms_get",
+                "parameters": [
+                    {
+                        "name": "hotel_id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Hotel Id"
+                        }
+                    }
+                ],
+                "responses": {
+                    "299": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/allHotels/byCity": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Hotels By City",
+                "description": "Get hotels by city - uses camelCase in path",
+                "operationId": "get_hotels_by_city_allHotels_byCity_get",
+                "parameters": [
+                    {
+                        "name": "cityName",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "title": "Cityname"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/createBooking/": {
+            "post": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Create Booking Camel Case",
+                "description": "Create booking - camelCase path and trailing slash",
+                "operationId": "create_booking_camel_case_createBooking__post",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/BookingCreate"
+                            }
+                        }
+                    },
+                    "required": true
+                },
+                "responses": {
+                    "420": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Booking"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/searchHotels//": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Search Hotels Multiple Violations",
+                "description": "Search hotels with filters - multiple violations",
+                "operationId": "search_hotels_multiple_violations_searchHotels___get",
+                "parameters": [
+                    {
+                        "name": "minPrice",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "number"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "title": "Minprice"
+                        }
+                    },
+                    {
+                        "name": "maxPrice",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "number"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "title": "Maxprice"
+                        }
+                    },
+                    {
+                        "name": "minRating",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "number"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "title": "Minrating"
+                        }
+                    }
+                ],
+                "responses": {
+                    "299": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/updateHotel/{hotelId}/": {
+            "put": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Update Hotel",
+                "description": "Update hotel - camelCase parameter, trailing slash, non-standard status",
+                "operationId": "update_hotel_updateHotel__hotelId___put",
+                "parameters": [
+                    {
+                        "name": "hotelId",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Hotelid"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/HotelCreate"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "209": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Hotel"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api//customers/": {
+            "post": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Create Customer",
+                "description": "Create customer - empty path segment",
+                "operationId": "create_customer_api__customers__post",
+                "parameters": [
+                    {
+                        "name": "firstName",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "title": "Firstname"
+                        }
+                    },
+                    {
+                        "name": "lastName",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "title": "Lastname"
+                        }
+                    },
+                    {
+                        "name": "email",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string",
+                            "title": "Email"
+                        }
+                    }
+                ],
+                "responses": {
+                    "444": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Customer"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/getCustomerBookings/{customerId}//": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Get Customer Bookings",
+                "description": "Get bookings for a customer - camelCase, empty segment, non-standard status",
+                "operationId": "get_customer_bookings_getCustomerBookings__customerId____get",
+                "parameters": [
+                    {
+                        "name": "customerId",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Customerid"
+                        }
+                    }
+                ],
+                "responses": {
+                    "290": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/cancelBooking/{bookingId}": {
+            "delete": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Cancel Booking",
+                "description": "Cancel a booking - uses made-up HTTP status 286",
+                "operationId": "cancel_booking_cancelBooking__bookingId__delete",
+                "parameters": [
+                    {
+                        "name": "bookingId",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer",
+                            "title": "Bookingid"
+                        }
+                    }
+                ],
+                "responses": {
+                    "286": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/": {
+            "get": {
+                "tags": [
+                    "violations"
+                ],
+                "summary": "Root With Violations",
+                "description": "Root endpoint - non-standard status",
+                "operationId": "root_with_violations__get",
+                "responses": {
+                    "299": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Booking": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "title": "Id"
+                    },
+                    "hotelId": {
+                        "type": "integer",
+                        "title": "Hotelid"
+                    },
+                    "customerId": {
+                        "type": "integer",
+                        "title": "Customerid"
+                    },
+                    "checkInDate": {
+                        "type": "string",
+                        "format": "date",
+                        "title": "Checkindate"
+                    },
+                    "checkOutDate": {
+                        "type": "string",
+                        "format": "date",
+                        "title": "Checkoutdate"
+                    },
+                    "roomType": {
+                        "$ref": "#/components/schemas/RoomType"
+                    },
+                    "totalPrice": {
+                        "type": "number",
+                        "title": "Totalprice"
+                    },
+                    "bookingStatus": {
+                        "type": "string",
+                        "title": "Bookingstatus"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "id",
+                    "hotelId",
+                    "customerId",
+                    "checkInDate",
+                    "checkOutDate",
+                    "roomType",
+                    "totalPrice",
+                    "bookingStatus"
+                ],
+                "title": "Booking"
+            },
+            "BookingCreate": {
+                "properties": {
+                    "hotelId": {
+                        "type": "integer",
+                        "title": "Hotelid"
+                    },
+                    "customerId": {
+                        "type": "integer",
+                        "title": "Customerid"
+                    },
+                    "checkInDate": {
+                        "type": "string",
+                        "format": "date",
+                        "title": "Checkindate"
+                    },
+                    "checkOutDate": {
+                        "type": "string",
+                        "format": "date",
+                        "title": "Checkoutdate"
+                    },
+                    "roomType": {
+                        "$ref": "#/components/schemas/RoomType"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "hotelId",
+                    "customerId",
+                    "checkInDate",
+                    "checkOutDate",
+                    "roomType"
+                ],
+                "title": "BookingCreate"
+            },
+            "Customer": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "title": "Id"
+                    },
+                    "firstName": {
+                        "type": "string",
+                        "title": "Firstname"
+                    },
+                    "lastName": {
+                        "type": "string",
+                        "title": "Lastname"
+                    },
+                    "email": {
+                        "type": "string",
+                        "title": "Email"
+                    },
+                    "phoneNumber": {
+                        "anyOf": [
+                            {
+                                "type": "string"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Phonenumber"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "id",
+                    "firstName",
+                    "lastName",
+                    "email"
+                ],
+                "title": "Customer"
+            },
+            "HTTPValidationError": {
+                "properties": {
+                    "detail": {
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        },
+                        "type": "array",
+                        "title": "Detail"
+                    }
+                },
+                "type": "object",
+                "title": "HTTPValidationError"
+            },
+            "Hotel": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "title": "Id"
+                    },
+                    "name": {
+                        "type": "string",
+                        "title": "Name"
+                    },
+                    "address": {
+                        "type": "string",
+                        "title": "Address"
+                    },
+                    "city": {
+                        "type": "string",
+                        "title": "City"
+                    },
+                    "rating": {
+                        "type": "number",
+                        "maximum": 5.0,
+                        "minimum": 0.0,
+                        "title": "Rating"
+                    },
+                    "pricePerNight": {
+                        "type": "number",
+                        "exclusiveMinimum": 0.0,
+                        "title": "Pricepernight"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "id",
+                    "name",
+                    "address",
+                    "city",
+                    "rating",
+                    "pricePerNight"
+                ],
+                "title": "Hotel"
+            },
+            "HotelCreate": {
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "maxLength": 100,
+                        "minLength": 1,
+                        "title": "Name"
+                    },
+                    "address": {
+                        "type": "string",
+                        "title": "Address"
+                    },
+                    "city": {
+                        "type": "string",
+                        "title": "City"
+                    },
+                    "rating": {
+                        "type": "number",
+                        "maximum": 5.0,
+                        "minimum": 0.0,
+                        "title": "Rating",
+                        "default": 3.0
+                    },
+                    "pricePerNight": {
+                        "type": "number",
+                        "exclusiveMinimum": 0.0,
+                        "title": "Pricepernight"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "name",
+                    "address",
+                    "city",
+                    "pricePerNight"
+                ],
+                "title": "HotelCreate"
+            },
+            "RoomType": {
+                "type": "string",
+                "enum": [
+                    "single",
+                    "double",
+                    "suite",
+                    "deluxe"
+                ],
+                "title": "RoomType"
+            },
+            "ValidationError": {
+                "properties": {
+                    "loc": {
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        },
+                        "type": "array",
+                        "title": "Location"
+                    },
+                    "msg": {
+                        "type": "string",
+                        "title": "Message"
+                    },
+                    "type": {
+                        "type": "string",
+                        "title": "Error Type"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "title": "ValidationError"
+            }
+        }
+    }
+}

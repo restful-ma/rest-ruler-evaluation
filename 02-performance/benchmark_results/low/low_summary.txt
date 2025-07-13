@@ -1,0 +1,39 @@
+Benchmark Summary for low APIs
+==================================================
+
+Performance Statistics (Successful runs only):
+----------------------------------------
+Execution Time (seconds):
+  Min: 20.77
+  Max: 79.16
+  Mean: 44.63
+  Median: 43.91
+  Std Dev: 15.86
+
+Average Memory Usage (MB):
+  Min: 435.2
+  Max: 1022.8
+  Mean: 732.0
+  Median: 837.0
+
+Peak Memory Usage (MB):
+  Min: 468.5
+  Max: 1610.5
+  Mean: 1011.5
+  Median: 1020.7
+
+Average CPU Usage (%):
+  Min: 6.8
+  Max: 13.6
+  Mean: 10.4
+  Median: 10.5
+
+Failed APIs:
+--------------------
+  Amazon QLDB.json: Tem 08, 2025 8:40:45  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 8:40:45  cli.analyzer.RestAnaly...

@@ -1,0 +1,491 @@
+attributes;appearances
+Add an email to the contact object;529
+Provide the 401 response in the definition of the path in the operation (here: POST);12564
+Use camelCase to separate words in URI segments;23225
+To indicate the format of a message's entity body (JSON) rely on the media type inside the Content-Type header.;588
+replace '.' with a forward slash '/' to indicate a hierarchical relationship;4234
+Use hyphens (-) instead of underscores (_);3579
+Provide the 401 response in the definition of the path in the operation (here: DELETE);2335
+Use singular nouns for document names;5268
+Provide the 401 response in the definition of the path in the operation (here: GET);11348
+Provide the 401 response in the definition of the path in the operation (here: PUT);2130
+Specify content type in 200 response in GET operation;2452
+because clients and servers rely on the value of this header to know how to process the sequence of bytes in the message body.;25022
+Add a response object content definition;2677
+Add a contact object to the info object;631
+Use plural nouns for collection or store names;2773
+POST must be used to create a new resource in a collection or to execute controllers and not for other purposes The request should be of type: DELETE;1637
+Specify content type in 400 response in POST operation;685
+Specify content type in 401 response in POST operation;732
+Specify content type in 415 response in POST operation;23
+GET must be used to retrieve a representation of a resource a not for other purposes The request should be of type: POST;712
+URIS should not be used to indicate that a CRUD function (GET) is performed;681
+instead HTTP request methods should be used for this.;2177
+POST must be used to create a new resource in a collection or to execute controllers and not for other purposes The request should be of type: GET;3584
+Use the appropriate HTTP request type;432
+URIS should not be used to indicate that a CRUD function (POST) is performed;34
+Specify content type in 402 response in POST operation;37
+Specify content type in 500 response in POST operation;313
+POST must be used to create a new resource in a collection or to execute controllers and not for other purposes The request should be of type: PUT;1878
+replace ':' with a forward slash '/' to indicate a hierarchical relationship;1210
+PUT must be used to both insert and update a stored resource and not for other purposes The request should be of type: POST;702
+Use an official HTTP status code from the IANA registry;50318
+Specify content type in 200 response in PUT operation;552
+Specify content type in 200 response in DELETE operation;976
+replace '#' with a forward slash '/' to indicate a hierarchical relationship;499
+Specify content type in 200 response in POST operation;1672
+Provide the 401 response in the definition of the path in the operation (here: PATCH);936
+Specify content type in 404 response in POST operation;664
+Specify content type in 405 response in POST operation;85
+Specify content type in 406 response in POST operation;34
+Specify content type in 401 response in GET operation;1770
+Specify content type in 404 response in GET operation;1964
+Specify content type in 405 response in GET operation;299
+Specify content type in 406 response in GET operation;181
+Specify content type in 401 response in DELETE operation;311
+Specify content type in 404 response in DELETE operation;409
+Specify content type in 405 response in DELETE operation;41
+Specify content type in 406 response in DELETE operation;7
+Specify content type in 403 response in POST operation;610
+Specify content type in 401 response in PUT operation;246
+Specify content type in 403 response in PUT operation;169
+Specify content type in 404 response in PUT operation;328
+Specify content type in 405 response in PUT operation;6
+Specify content type in 406 response in PUT operation;14
+Specify content type in 415 response in PUT operation;5
+Specify content type in 403 response in GET operation;1236
+Specify content type in 403 response in DELETE operation;248
+Specify content type in 201 response in POST operation;400
+URIS should not be used to indicate that a CRUD function (ADD) is performed;222
+URIS should not be used to indicate that a CRUD function (UPDATE) is performed;352
+URIS should not be used to indicate that a CRUD function (INSERT) is performed;9
+URIS should not be used to indicate that a CRUD function (DELETE) is performed;384
+Specify content type in 500 response in GET operation;879
+Please check validity of path;132
+Specify content type in 500 response in DELETE operation;104
+Specify content type in 500 response in PUT operation;97
+Specify content type in 401 response in PATCH operation;97
+Specify content type in 403 response in PATCH operation;82
+Specify content type in 404 response in PATCH operation;112
+Specify content type in 500 response in PATCH operation;22
+Specify content type in 200 response in PATCH operation;130
+Add a name to the contact object;246
+Add a URL to the contact object;288
+Specify content type in 400 response in GET operation;1618
+Specify content type in 400 response in PUT operation;523
+Specify content type in 400 response in DELETE operation;267
+Specify content type in 409 response in POST operation;129
+Specify content type in 409 response in PUT operation;26
+Specify content type in 202 response in POST operation;384
+Specify content type in 202 response in GET operation;59
+Add missing Response for HTTP Code 200;217
+Specify content type in 422 response in POST operation;160
+URIS should not be used to indicate that a CRUD function (CREATE) is performed;302
+URIS should not be used to indicate that a CRUD function (RETRIEVE) is performed;22
+Add a description to the info object;185
+DELETE must be used to remove a resource from its parent resource and not for other purposes The request should be of type: POST;46
+Specify content type in 201 response in PATCH operation;26
+remove any '#' and '?' from the path;6025
+Specify content type in 501 response in POST operation;5
+Specify content type in 202 response in DELETE operation;250
+Use a verb or verb phrase for controller names;139
+URIS should not be used to indicate that a CRUD function (PUT) is performed;36
+URIS should not be used to indicate that a CRUD function (READ) is performed;49
+PUT must be used to both insert and update a stored resource and not for other purposes The request should be of type: DELETE;31
+remove trailing forward slash '/' from URI;1001
+GET must be used to retrieve a representation of a resource a not for other purposes The request should be of type: PUT;89
+GET must be used to retrieve a representation of a resource a not for other purposes The request should be of type: DELETE;181
+Remove the request body from the get request;41
+URIS should not be used to indicate that a CRUD function (PURGE) is performed;11
+URIS should not be used to indicate that a CRUD function (SELECT) is performed;9
+replace '?' with a forward slash '/' to indicate a hierarchical relationship;5
+Specify content type in 202 response in PUT operation;121
+replace '=' with a forward slash '/' to indicate a hierarchical relationship;74
+Specify content type in 201 response in DELETE operation;3
+Specify content type in 400 response in PATCH operation;80
+Define content of responses in refs in /responses/unauthorized or directly in the 401 response in GET operation.;22
+Define content of responses in refs in /responses/forbidden or directly in the 403 response in GET operation.;22
+Define content of responses in refs in /responses/not_acceptable or directly in the 406 response in GET operation.;22
+Define content of responses in refs in /responses/rate_limit_exceeded or directly in the 429 response in GET operation.;22
+Define content of responses in refs in /responses/not_found or directly in the 404 response in GET operation.;12
+Define content of responses in refs in /responses/401 or directly in the 401 response in GET operation.;114
+Define content of responses in refs in /responses/401 or directly in the 401 response in POST operation.;29
+Define content of responses in refs in /responses/401 or directly in the 401 response in DELETE operation.;24
+Specify content type in 501 response in GET operation;7
+URIS should not be used to indicate that a CRUD function (FETCH) is performed;26
+Specify content type in 201 response in PUT operation;24
+Specify content type in 202 response in PATCH operation;46
+To indicate the format of a message's entity body (SQL) rely on the media type inside the Content-Type header.;29
+Specify content type in default response in GET operation;286
+Specify content type in default response in DELETE operation;43
+Specify content type in default response in PUT operation;26
+Specify content type in default response in PATCH operation;11
+Define content of responses in refs in /responses/304_NotModified or directly in the 304 response in GET operation.;26
+Define content of responses in refs in /responses/412_PreConditionFailed or directly in the 412 response in POST operation.;2
+Specify content type in 304 response in GET operation;215
+Specify content type in 409 response in GET operation;144
+Define content of responses in refs in /responses/processingResponse or directly in the 503 response in GET operation.;3
+Define content of responses in refs in /responses/processingResponse or directly in the 503 response in POST operation.;2
+Specify content type in 402 response in GET operation;171
+Specify content type in 422 response in GET operation;174
+Specify content type in 302 response in GET operation;27
+To indicate the format of a message's entity body (ZIP) rely on the media type inside the Content-Type header.;1
+replace '-' with a forward slash '/' to indicate a hierarchical relationship;30
+URIS should not be used to indicate that a CRUD function (PATCH) is performed;40
+Specify content type in 304 response in POST operation;17
+DELETE must be used to remove a resource from its parent resource and not for other purposes The request should be of type: PUT;6
+PUT must be used to both insert and update a stored resource and not for other purposes The request should be of type: GET;21
+Specify content type in 416 response in GET operation;6
+Specify content type in 406 response in PATCH operation;8
+Specify content type in 429 response in GET operation;242
+Specify content type in 429 response in POST operation;108
+Specify content type in 429 response in PATCH operation;33
+Define content of responses in refs in /responses/400Error or directly in the 400 response in GET operation.;4
+Define content of responses in refs in /responses/401Error or directly in the 401 response in GET operation.;4
+Define content of responses in refs in /responses/404Error or directly in the 404 response in GET operation.;4
+Define content of responses in refs in /responses/500Error or directly in the 500 response in GET operation.;4
+To indicate the format of a message's entity body (PHP) rely on the media type inside the Content-Type header.;4
+Path contains empty segments. Normalize the path by removing empty segments.;5
+Specify content type in default response in POST operation;61
+To indicate the format of a message's entity body (PDF) rely on the media type inside the Content-Type header.;3
+To indicate the format of a message's entity body (PNG) rely on the media type inside the Content-Type header.;3
+Define content of responses in refs in /responses/Unauthorized or directly in the 401 response in GET operation.;56
+Define content of responses in refs in /responses/Unauthorized or directly in the 401 response in PUT operation.;1
+Define content of responses in refs in /responses/BadRequest or directly in the 400 response in POST operation.;3
+Define content of responses in refs in /responses/Unauthorized or directly in the 401 response in POST operation.;6
+Define content of responses in refs in /responses/NetworkGroupNotFound or directly in the 404 response in GET operation.;4
+Define content of responses in refs in /responses/Unauthorized or directly in the 401 response in DELETE operation.;5
+Define content of responses in refs in /responses/NetworkGroupNotFound or directly in the 404 response in DELETE operation.;1
+Define content of responses in refs in /responses/NetworkGroupNotFound or directly in the 404 response in POST operation.;2
+Define content of responses in refs in /responses/Accepted or directly in the 202 response in POST operation.;1
+Define content of responses in refs in /responses/MemberNotFound or directly in the 404 response in GET operation.;1
+Define content of responses in refs in /responses/PeerNotFound or directly in the 404 response in GET operation.;3
+Specify content type in 429 response in DELETE operation;47
+Specify content type in 429 response in PUT operation;17
+DELETE must be used to remove a resource from its parent resource and not for other purposes The request should be of type: GET;3
+To indicate the format of a message's entity body (CSS) rely on the media type inside the Content-Type header.;2
+Specify content type in 405 response in PATCH operation;32
+Specify content type in 503 response in POST operation;40
+Specify content type in 422 response in PUT operation;78
+Specify content type in 503 response in GET operation;239
+Specify content type in 301 response in GET operation;2
+Specify content type in 503 response in DELETE operation;9
+Specify content type in 409 response in DELETE operation;47
+Specify content type in 101 response in POST operation;2
+Specify content type in 101 response in GET operation;4
+Specify content type in 456 response in GET operation;6
+Specify content type in 458 response in GET operation;6
+Specify content type in 459 response in GET operation;6
+Specify content type in 464 response in GET operation;2
+Specify content type in 490 response in GET operation;6
+Specify content type in 452 response in GET operation;4
+Specify content type in 453 response in GET operation;4
+Specify content type in 454 response in GET operation;4
+Specify content type in 455 response in GET operation;4
+Specify content type in 460 response in GET operation;4
+Specify content type in 461 response in GET operation;5
+Specify content type in 462 response in GET operation;4
+Specify content type in 463 response in GET operation;4
+Specify content type in 502 response in POST operation;17
+Specify content type in 415 response in GET operation;24
+Specify content type in 502 response in GET operation;162
+Specify content type in 502 response in PUT operation;10
+Specify content type in 415 response in DELETE operation;5
+Specify content type in 502 response in DELETE operation;10
+Specify content type in 409 response in PATCH operation;37
+Specify content type in 415 response in PATCH operation;5
+Specify content type in 502 response in PATCH operation;8
+Specify content type in 402 response in DELETE operation;12
+Specify content type in 413 response in POST operation;6
+Specify content type in 408 response in POST operation;12
+Specify content type in 510 response in GET operation;1
+Specify content type in 510 response in POST operation;1
+replace ';4
+' with a forward slash '/' to indicate a hierarchical relationship;4
+Define content of responses in refs in /responses/AppPkgContent.200 or directly in the 200 response in GET operation.;2
+Define content of responses in refs in /responses/206 or directly in the 206 response in GET operation.;2
+Define content of responses in refs in /responses/416 or directly in the 416 response in GET operation.;2
+Define content of request bodies in refs in /requestBodies/ItemUsagesRequest or directly in the request body in the POST operation.;1
+Define content of request bodies in refs in /requestBodies/SignInAttemptsRequest or directly in the request body in the POST operation.;1
+Specify content type in 205 response in POST operation;2
+Specify content type in 205 response in PUT operation;13
+Specify content type in 412 response in GET operation;120
+Specify content type in 423 response in GET operation;110
+Specify content type in 412 response in POST operation;62
+Specify content type in 423 response in POST operation;56
+Specify content type in 412 response in DELETE operation;34
+Specify content type in 422 response in DELETE operation;49
+Specify content type in 423 response in DELETE operation;32
+Specify content type in 412 response in PATCH operation;26
+Specify content type in 422 response in PATCH operation;43
+Specify content type in 423 response in PATCH operation;26
+To indicate the format of a message's entity body (CLASS) rely on the media type inside the Content-Type header.;1
+Specify content type in 302 response in POST operation;5
+Specify content type in 303 response in POST operation;4
+Define content of responses in refs in /responses/BadRequest or directly in the 400 response in GET operation.;15
+Define content of responses in refs in /responses/Forbidden or directly in the 403 response in GET operation.;10
+Define content of responses in refs in /responses/NotFound or directly in the 404 response in GET operation.;18
+Define content of responses in refs in /responses/TooManyRequests or directly in the 429 response in GET operation.;29
+To indicate the format of a message's entity body (GZ) rely on the media type inside the Content-Type header.;1
+Specify content type of parameter in the path;1
+Specify content type in 503 response in PATCH operation;6
+Specify content type in 503 response in PUT operation;8
+Specify content type in 302 response in DELETE operation;1
+Specify content type in 302 response in PUT operation;1
+Specify content type in 302 response in PATCH operation;1
+Specify content type in 100 response in GET operation;1
+Specify content type in 300 response in GET operation;1
+Specify content type in 100 response in DELETE operation;1
+Specify content type in 300 response in DELETE operation;1
+Specify content type in 100 response in POST operation;1
+Specify content type in 300 response in POST operation;1
+Specify content type in 100 response in PUT operation;1
+Specify content type in 300 response in PUT operation;1
+Specify content type in 100 response in PATCH operation;1
+Specify content type in 300 response in PATCH operation;1
+Specify content type in 408 response in GET operation;22
+Specify content type in 408 response in DELETE operation;4
+Specify content type in 408 response in PUT operation;5
+Define content of responses in refs in /responses/PatchNotModified or directly in the 304 response in PATCH operation.;15
+To indicate the format of a message's entity body (AAC) rely on the media type inside the Content-Type header.;1
+To indicate the format of a message's entity body (MP3) rely on the media type inside the Content-Type header.;1
+To indicate the format of a message's entity body (M3U8) rely on the media type inside the Content-Type header.;7
+To indicate the format of a message's entity body (XML) rely on the media type inside the Content-Type header.;5
+Specify content type in request body in the POST operation;1
+Specify content type in 2XX response in POST operation;54
+Use a numeric HTTP status code from the IANA registry;365
+Specify content type in 2XX response in DELETE operation;47
+Specify content type in 2XX response in PUT operation;29
+Specify content type in 2XX response in GET operation;6
+Define content of responses in refs in /responses/default or directly in the default response in GET operation.;30
+Define content of responses in refs in /responses/default or directly in the default response in POST operation.;23
+Define content of responses in refs in /responses/200 or directly in the 200 response in GET operation.;24
+Define content of responses in refs in /responses/200 or directly in the 200 response in POST operation.;13
+Define content of responses in refs in /responses/Standard401 or directly in the 401 response in GET operation.;38
+Define content of responses in refs in /responses/Standard400 or directly in the 400 response in POST operation.;16
+Define content of responses in refs in /responses/Standard403 or directly in the 403 response in POST operation.;1
+Define content of responses in refs in /responses/Standard404 or directly in the 404 response in GET operation.;20
+Define content of responses in refs in /responses/Standard400 or directly in the 400 response in DELETE operation.;1
+Define content of responses in refs in /responses/Standard404 or directly in the 404 response in DELETE operation.;14
+Define content of responses in refs in /responses/Standard400 or directly in the 400 response in PATCH operation.;15
+Define content of responses in refs in /responses/Standard404 or directly in the 404 response in PATCH operation.;14
+Define content of responses in refs in /responses/Standard409 or directly in the 409 response in PATCH operation.;14
+Define content of responses in refs in /responses/Standard404 or directly in the 404 response in POST operation.;7
+Define content of responses in refs in /responses/Standard400 or directly in the 400 response in GET operation.;5
+Define content of responses in refs in /responses/Standard401 or directly in the 401 response in POST operation.;18
+Define content of responses in refs in /responses/Standard409 or directly in the 409 response in POST operation.;13
+Define content of responses in refs in /responses/Standard401 or directly in the 401 response in DELETE operation.;13
+Define content of responses in refs in /responses/Standard401 or directly in the 401 response in PATCH operation.;14
+Define content of responses in refs in /responses/Standard400 or directly in the 400 response in PUT operation.;1
+Define content of responses in refs in /responses/Standard401 or directly in the 401 response in PUT operation.;1
+Define content of responses in refs in /responses/Standard404 or directly in the 404 response in PUT operation.;1
+Specify content type in 307 response in GET operation;1
+Specify content type in 303 response in GET operation;4
+Define content of responses in refs in /responses/ServerError or directly in the 5XX response in GET operation.;19
+Define content of responses in refs in /responses/TooManyRequests or directly in the 429 response in POST operation.;3
+Define content of responses in refs in /responses/ServerError or directly in the 5XX response in POST operation.;3
+Define content of responses in refs in /responses/NotFound or directly in the 404 response in DELETE operation.;1
+Define content of responses in refs in /responses/TooManyRequests or directly in the 429 response in DELETE operation.;1
+Define content of responses in refs in /responses/ServerError or directly in the 5XX response in DELETE operation.;1
+Specify content type in 410 response in GET operation;8
+Define content of responses in refs in /responses/mesheryApplicationsResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/mesheryApplicationResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/applicationFilesResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/mesheryApplicationResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/noContentWrapper or directly in the 200 response in DELETE operation.;4
+Define content of responses in refs in /responses/mesheryFiltersResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/mesheryFilterResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/mesheryFilterResponseWrapper or directly in the 200 response in GET operation.;2
+Define content of responses in refs in /responses/mesheryPatternsResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/mesheryPatternResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/mesheryPatternResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/performanceResultsResponseWrapper or directly in the 200 response in GET operation.;3
+Define content of responses in refs in /responses/perfSingleResultRespWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/listProvidersRespWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/mesheryAdaptersRespWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/systemAdaptersRespWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/k8sConfigRespWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/k8sContextsRespWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/v1ServicesMapResponseWrapper or directly in the 200 response in GET operation.;3
+Define content of responses in refs in /responses/userLoadTestPrefsRespWrapper or directly in the 200 response in GET operation.;2
+Define content of responses in refs in /responses/mesheryVersionRespWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/prometheusBoardImportRespWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/prometheusConfigResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/grafanaBoardsResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/grafanaConfigResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/prometheusStaticBoardRespWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/performanceProfilesResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/performanceProfileResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/performanceProfileResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/userLoadTestPrefsRespWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/loadTestPreferencesWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/schedulesResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/singleScheduleResponseWrapper or directly in the 200 response in POST operation.;1
+Define content of responses in refs in /responses/singleScheduleResponseWrapper or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/schedulesResponseWrapper or directly in the 200 response in DELETE operation.;1
+To indicate the format of a message's entity body (HTML) rely on the media type inside the Content-Type header.;1
+Specify content type in 420 response in POST operation;3
+Add a title to the info object;1
+Specify content type in 504 response in PUT operation;4
+Specify content type in 304 response in PUT operation;2
+To indicate the format of a message's entity body (YAML) rely on the media type inside the Content-Type header.;2
+To indicate the format of a message's entity body (ICO) rely on the media type inside the Content-Type header.;1
+replace with a forward slash '/' to indicate a hierarchical relationship;1
+Define content of responses in refs in /responses/410 or directly in the 410 response in GET operation.;1
+Specify content type in 207 response in POST operation;2
+Define content of responses in refs in /responses/500 or directly in the 500 response in GET operation.;142
+Define content of responses in refs in /responses/500 or directly in the 500 response in POST operation.;48
+Define content of responses in refs in /responses/500 or directly in the 500 response in DELETE operation.;33
+Define content of responses in refs in /responses/500 or directly in the 500 response in PUT operation.;28
+Define content of responses in refs in /responses/NotFoundError or directly in the 404 response in GET operation.;3
+Define content of responses in refs in /responses/TooManyRequestsError or directly in the 429 response in GET operation.;3
+Define content of responses in refs in /responses/Success or directly in the 200 response in PATCH operation.;1
+Specify content type in 201 response in GET operation;1
+Specify content type in 303 response in PUT operation;2
+Specify content type in 410 response in PUT operation;1
+Define content of responses in refs in /responses/Found or directly in the 302 response in GET operation.;1
+Define content of responses in refs in /responses/ok or directly in the 200 response in GET operation.;1
+Define content of responses in refs in /responses/ok or directly in the 200 response in POST operation.;2
+Define content of responses in refs in /responses/ok or directly in the 200 response in PATCH operation.;1
+Define content of responses in refs in /responses/403 or directly in the 403 response in GET operation.;55
+Define content of responses in refs in /responses/404 or directly in the 404 response in GET operation.;56
+Define content of responses in refs in /responses/405 or directly in the 405 response in GET operation.;16
+Define content of responses in refs in /responses/408 or directly in the 408 response in GET operation.;2
+Define content of responses in refs in /responses/414 or directly in the 414 response in GET operation.;2
+Define content of responses in refs in /responses/502 or directly in the 502 response in GET operation.;2
+Define content of responses in refs in /responses/503 or directly in the 503 response in GET operation.;2
+Define content of responses in refs in /responses/504 or directly in the 504 response in GET operation.;2
+Define content of responses in refs in /responses/596 or directly in the 596 response in GET operation.;2
+Define content of responses in refs in /responses/403 or directly in the 403 response in POST operation.;16
+Define content of responses in refs in /responses/404 or directly in the 404 response in POST operation.;9
+Define content of responses in refs in /responses/405 or directly in the 405 response in POST operation.;6
+Define content of responses in refs in /responses/408 or directly in the 408 response in POST operation.;2
+Define content of responses in refs in /responses/414 or directly in the 414 response in POST operation.;2
+Define content of responses in refs in /responses/502 or directly in the 502 response in POST operation.;2
+Define content of responses in refs in /responses/503 or directly in the 503 response in POST operation.;2
+Define content of responses in refs in /responses/504 or directly in the 504 response in POST operation.;2
+Define content of responses in refs in /responses/596 or directly in the 596 response in POST operation.;2
+Specify content type in 504 response in GET operation;8
+Specify content type in 504 response in POST operation;2
+Specify content type in 504 response in DELETE operation;2
+Specify content type in 504 response in PATCH operation;3
+Specify content type in 414 response in GET operation;1
+Specify content type in 596 response in GET operation;1
+Define content of responses in refs in /responses/400 or directly in the 400 response in GET operation.;106
+Define content of responses in refs in /responses/404596 or directly in the 596 response in GET operation.;14
+Define content of responses in refs in /responses/5xx or directly in the 5XX response in GET operation.;14
+Define content of responses in refs in /responses/400 or directly in the 400 response in POST operation.;33
+Define content of responses in refs in /responses/404596 or directly in the 596 response in POST operation.;4
+Define content of responses in refs in /responses/5xx or directly in the 5XX response in POST operation.;4
+To indicate the format of a message's entity body (RUN) rely on the media type inside the Content-Type header.;1
+Specify content type in 499 response in POST operation;1
+Specify content type in 402 response in PUT operation;7
+Specify content type in 410 response in POST operation;2
+Define content of responses in refs in /responses/422 or directly in the 422 response in GET operation.;37
+Define content of responses in refs in /responses/404 or directly in the 404 response in DELETE operation.;21
+Define content of responses in refs in /responses/422 or directly in the 422 response in DELETE operation.;19
+Define content of responses in refs in /responses/400 or directly in the 400 response in PUT operation.;15
+Define content of responses in refs in /responses/401 or directly in the 401 response in PUT operation.;16
+Define content of responses in refs in /responses/404 or directly in the 404 response in PUT operation.;11
+Define content of responses in refs in /responses/403 or directly in the 403 response in DELETE operation.;20
+Define content of responses in refs in /responses/422 or directly in the 422 response in POST operation.;12
+Define content of responses in refs in /responses/403 or directly in the 403 response in PUT operation.;13
+Define content of responses in refs in /responses/422 or directly in the 422 response in PUT operation.;7
+Define content of responses in refs in /responses/400 or directly in the 400 response in DELETE operation.;10
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_AIS or directly in the 408 response in GET operation.;9
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_AIS or directly in the 415 response in GET operation.;9
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_AIS or directly in the 500 response in GET operation.;9
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_AIS or directly in the 503 response in GET operation.;9
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_AIS or directly in the 408 response in POST operation.;2
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_AIS or directly in the 415 response in POST operation.;2
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_AIS or directly in the 500 response in POST operation.;2
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_AIS or directly in the 503 response in POST operation.;2
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_AIS or directly in the 408 response in DELETE operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_AIS or directly in the 415 response in DELETE operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_AIS or directly in the 500 response in DELETE operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_AIS or directly in the 503 response in DELETE operation.;1
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_AIS or directly in the 408 response in PUT operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_AIS or directly in the 415 response in PUT operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_AIS or directly in the 500 response in PUT operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_AIS or directly in the 503 response in PUT operation.;1
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_PIIS or directly in the 406 response in POST operation.;1
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_PIIS or directly in the 408 response in POST operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_PIIS or directly in the 415 response in POST operation.;1
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_PIIS or directly in the 429 response in POST operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_PIIS or directly in the 500 response in POST operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_PIIS or directly in the 503 response in POST operation.;1
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_SBS or directly in the 406 response in POST operation.;2
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_SBS or directly in the 408 response in POST operation.;2
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_SBS or directly in the 415 response in POST operation.;2
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_SBS or directly in the 429 response in POST operation.;2
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_SBS or directly in the 500 response in POST operation.;2
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_SBS or directly in the 503 response in POST operation.;2
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_SBS or directly in the 406 response in GET operation.;4
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_SBS or directly in the 408 response in GET operation.;4
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_SBS or directly in the 415 response in GET operation.;4
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_SBS or directly in the 429 response in GET operation.;4
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_SBS or directly in the 500 response in GET operation.;4
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_SBS or directly in the 503 response in GET operation.;4
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_SBS or directly in the 406 response in DELETE operation.;1
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_SBS or directly in the 408 response in DELETE operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_SBS or directly in the 415 response in DELETE operation.;1
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_SBS or directly in the 429 response in DELETE operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_SBS or directly in the 500 response in DELETE operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_SBS or directly in the 503 response in DELETE operation.;1
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_SBS or directly in the 406 response in PUT operation.;1
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_SBS or directly in the 408 response in PUT operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_SBS or directly in the 415 response in PUT operation.;1
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_SBS or directly in the 429 response in PUT operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_SBS or directly in the 500 response in PUT operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_SBS or directly in the 503 response in PUT operation.;1
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_PIS or directly in the 406 response in POST operation.;3
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_PIS or directly in the 408 response in POST operation.;3
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_PIS or directly in the 415 response in POST operation.;3
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_PIS or directly in the 429 response in POST operation.;3
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_PIS or directly in the 500 response in POST operation.;3
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_PIS or directly in the 503 response in POST operation.;3
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_PIS or directly in the 406 response in GET operation.;6
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_PIS or directly in the 408 response in GET operation.;6
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_PIS or directly in the 415 response in GET operation.;6
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_PIS or directly in the 429 response in GET operation.;6
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_PIS or directly in the 500 response in GET operation.;6
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_PIS or directly in the 503 response in GET operation.;6
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_PIS or directly in the 406 response in DELETE operation.;1
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_PIS or directly in the 408 response in DELETE operation.;1
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_PIS or directly in the 415 response in DELETE operation.;1
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_PIS or directly in the 429 response in DELETE operation.;1
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_PIS or directly in the 500 response in DELETE operation.;1
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_PIS or directly in the 503 response in DELETE operation.;1
+Define content of responses in refs in /responses/NOT_ACCEPTABLE_406_PIS or directly in the 406 response in PUT operation.;2
+Define content of responses in refs in /responses/REQUEST_TIMEOUT_408_PIS or directly in the 408 response in PUT operation.;2
+Define content of responses in refs in /responses/UNSUPPORTED_MEDIA_TYPE_415_PIS or directly in the 415 response in PUT operation.;2
+Define content of responses in refs in /responses/TOO_MANY_REQUESTS_429_PIS or directly in the 429 response in PUT operation.;2
+Define content of responses in refs in /responses/INTERNAL_SERVER_ERROR_500_PIS or directly in the 500 response in PUT operation.;2
+Define content of responses in refs in /responses/SERVICE_UNAVAILABLE_503_PIS or directly in the 503 response in PUT operation.;2
+Define content of responses in refs in /responses/UnauthorizedResponse or directly in the 401 response in GET operation.;8
+Define content of responses in refs in /responses/UnauthorizedResponse or directly in the 401 response in DELETE operation.;1
+Define content of responses in refs in /responses/UnauthorizedResponse or directly in the 401 response in PATCH operation.;1
+Define content of responses in refs in /responses/UnprocessableEntityResponse or directly in the 422 response in GET operation.;3
+Define content of responses in refs in /responses/UnauthorizedResponse or directly in the 401 response in POST operation.;17
+Define content of responses in refs in /responses/UnprocessableEntityResponse or directly in the 422 response in POST operation.;14
+Define content of responses in refs in /responses/NotFoundResponse or directly in the 404 response in GET operation.;6
+Define content of responses in refs in /responses/NotFoundResponse or directly in the 404 response in POST operation.;11
+Specify content type of parameter in the GET-operation;3
+Specify content type of parameter in the DELETE-operation;3
+Specify content type in 206 response in GET operation;1
+Specify content type in 303 response in DELETE operation;1
+Specify content type in 304 response in DELETE operation;1
+Define content of responses in refs in /responses/user-not-found or directly in the 404 response in GET operation.;14
+Define content of responses in refs in /responses/400 or directly in the 400 response in PATCH operation.;6
+Define content of responses in refs in /responses/401 or directly in the 401 response in PATCH operation.;6
+Define content of responses in refs in /responses/403 or directly in the 403 response in PATCH operation.;6
+Define content of responses in refs in /responses/user-not-found or directly in the 404 response in PATCH operation.;4
+Define content of responses in refs in /responses/500 or directly in the 500 response in PATCH operation.;6
+Define content of responses in refs in /responses/team-not-found or directly in the 404 response in GET operation.;7
+Define content of responses in refs in /responses/team-not-found or directly in the 404 response in POST operation.;2
+Define content of responses in refs in /responses/team-not-found or directly in the 404 response in DELETE operation.;2
+Define content of responses in refs in /responses/team-not-found or directly in the 404 response in PUT operation.;1
+Define content of responses in refs in /responses/user-not-found or directly in the 404 response in POST operation.;3
+Define content of responses in refs in /responses/user-not-found or directly in the 404 response in DELETE operation.;4
+Define content of responses in refs in /responses/user-not-found or directly in the 404 response in PUT operation.;2
+Specify content type in 412 response in PUT operation;2

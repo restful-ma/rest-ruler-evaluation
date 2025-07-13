@@ -1,0 +1,102 @@
+Benchmark Summary for medium APIs
+==================================================
+
+Performance Statistics (Successful runs only):
+----------------------------------------
+Execution Time (seconds):
+  Min: 33.11
+  Max: 117.40
+  Mean: 86.25
+  Median: 87.27
+  Std Dev: 21.10
+
+Average Memory Usage (MB):
+  Min: 590.4
+  Max: 1868.0
+  Mean: 1091.8
+  Median: 1049.2
+
+Peak Memory Usage (MB):
+  Min: 590.4
+  Max: 1868.0
+  Mean: 1091.8
+  Median: 1049.2
+
+Average CPU Usage (%):
+  Min: 5.9
+  Max: 12.9
+  Mean: 9.1
+  Median: 9.3
+
+Failed APIs:
+--------------------
+  Public Api.json: Tem 08, 2025 8:45:45  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 8:45:45  cli.analyzer.RestAnaly...
+  Amazon QuickSight.json: Tem 08, 2025 8:49:54  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 8:49:54  cli.analyzer.RestAnaly...
+  Amazon Neptune.json: Tem 08, 2025 8:55:16  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 8:55:16  cli.analyzer.RestAnaly...
+  Gateway.json: Tem 08, 2025 9:01:30  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:01:30  cli.analyzer.RestAnaly...
+  U.S. EPA Enforcement and Compliance History Online (ECHO) - Detailed Facility Report (DFR).json: Tem 08, 2025 9:04:51  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:04:51  cli.analyzer.RestAnaly...
+  Google Play Android Developer API.json: Tem 08, 2025 9:11:11  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:11:11  cli.analyzer.RestAnaly...
+  Wowza Streaming Cloud REST API Reference Documentation.json: Tem 08, 2025 9:24:09  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:24:09  cli.analyzer.RestAnaly...
+  Crucible.json: Tem 08, 2025 9:26:45  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:26:45  cli.analyzer.RestAnaly...
+  StorSimple8000SeriesManagementClient.json: Tem 08, 2025 9:30:26  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:30:26  cli.analyzer.RestAnaly...
+  OnSched API.json: Tem 08, 2025 9:40:29  cli.analyzer.RestAnalyzer runRuleViolationChecks
+
+INFO: Rule 1 of 19 is now checked:
+
+CRUD function names should not be used in URIs
+
+Tem 08, 2025 9:40:29  cli.analyzer.RestAnaly...
